@@ -6,7 +6,7 @@ Array must be symmetric
 "no supported conversion for types: (dtype('O'),)"
 "no supported conversion for types: (dtype('float64'), dtype('O'))"
 log
-This LabelEncoder instance is not fitted yet. Call 'fit' with appropriate arguments before using this method.
+This LabelEncoder  instanceis not fitted yet. Call 'fit' with appropriate arguments before using this method.
 X has 1433445 features per sample; expecting 3797015
 unsupported operand type(s) for /: 'str' and 'int'
 Found array with dim 4. Estimator expected <= 2.

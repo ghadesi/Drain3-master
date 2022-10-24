@@ -25,9 +25,7 @@ ExtractedParameter = NamedTuple("ExtractedParameter", [("value", str), ("mask_na
 
 class TemplateMiner:
 
-    def __init__(self,
-                 persistence_handler: PersistenceHandler = None,
-                 config: TemplateMinerConfig = None):
+    def __init__(self, persistence_handler: PersistenceHandler = None, config: TemplateMinerConfig = None):
         """
         Wrapper for Drain with persistence and masking support
 
@@ -93,17 +91,18 @@ class TemplateMiner:
         self.drain.clusters_counter = loaded_drain.clusters_counter
         self.drain.root_node = loaded_drain.root_node
 
-        logger.info("Restored {0} clusters built from {1} messages".format(
-            len(loaded_drain.clusters), loaded_drain.get_total_cluster_size()))
+        logger.info("Restored {0} clusters built from {1} messages".format(len(loaded_drain.clusters), loaded_drain.get_total_cluster_size()))
 
     def save_state(self, snapshot_reason):
         state = jsonpickle.dumps(self.drain, keys=True).encode('utf-8')
         if self.config.snapshot_compress_state:
             state = base64.b64encode(zlib.compress(state))
 
-        logger.info(f"Saving state of {len(self.drain.clusters)} clusters "
-                    f"with {self.drain.get_total_cluster_size()} messages, {len(state)} bytes, "
-                    f"reason: {snapshot_reason}")
+        # logger.info(
+        #     f"Saving state of {len(self.drain.clusters)} clusters "
+        #     f"with {self.drain.get_total_cluster_size()} messages, {len(state)} bytes, "
+        #     f"reason: {snapshot_reason}"
+        # )
         self.persistence_handler.save_state(state)
 
     def get_snapshot_reason(self, change_type, cluster_id):
@@ -143,7 +142,7 @@ class TemplateMiner:
             self.profiler.end_section()
 
         self.profiler.end_section("total")
-        self.profiler.report(self.config.profiling_report_sec)
+        # self.profiler.report(self.config.profiling_report_sec)
         return result
 
     def match(self, log_message: str, full_search_strategy="never") -> LogCluster:
@@ -187,10 +186,7 @@ class TemplateMiner:
             return []
         return [parameter.value for parameter in extracted_parameters]
 
-    def extract_parameters(self,
-                           log_template: str,
-                           log_message: str,
-                           exact_matching: bool = True) -> Optional[List[ExtractedParameter]]:
+    def extract_parameters(self, log_template: str, log_message: str, exact_matching: bool = True) -> Optional[List[ExtractedParameter]]:
         """
         Extract parameters from a log message according to a provided template that was generated
         by calling `add_log_message()`.
@@ -213,8 +209,7 @@ class TemplateMiner:
         for delimiter in self.config.drain_extra_delimiters:
             log_message = re.sub(delimiter, " ", log_message)
 
-        template_regex, param_group_name_to_mask_name = self._get_template_parameter_extraction_regex(
-            log_template, exact_matching)
+        template_regex, param_group_name_to_mask_name = self._get_template_parameter_extraction_regex(log_template, exact_matching)
 
         # Parameters are represented by specific named groups inside template_regex.
         parameter_match = re.match(template_regex, log_message)

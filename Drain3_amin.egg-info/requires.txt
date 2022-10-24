@@ -1,0 +1,8 @@
+jsonpickle==1.5.1
+cachetools==4.2.1
+
+[kafka]
+kafka-python==2.0.1
+
+[redis]
+redis==3.5.3
