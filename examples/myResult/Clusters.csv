@@ -1,0 +1,1025 @@
+Cluster_ID:Size:Template
+18:873:"<:VID:> object has no attribute <:*:>"
+34:475:"No module named <:*:>"
+45:454:"in user <:*:>"
+81:326:"module <:VID:> has no attribute <:*:>"
+17:287:
+54:213:"Traceback (most recent call <:*:>"
+111:195:"DLL load failed: The specified module could not be <:*:>"
+65:186:"<:VID:> object is not <:*:>"
+58:168:"cannot import name <:*:>"
+340:117:"<:VID:>"
+40:109:"cannot import name <:VID:> from <:VID:> <:*:>"
+71:105:"list index out of <:*:>"
+469:89:"<:*:> cannot open shared object file: No such file or <:*:>"
+319:83:"<:NUM:> root error(s) found."
+48:73:"<:*:> got an unexpected keyword argument <:*:>"
+947:67:"You must feed a value for placeholder tensor <:*:> with dtype <:*:> and shape <:*:>"
+1073:67:"Attempting to use uninitialized value <:*:>"
+51:65:"name <:VID:> is not <:*:>"
+21:56:"<:NUM:>"
+210:54:"<:PATH:>: undefined symbol: <:*:>"
+793:50:"Failed to convert a NumPy array to a Tensor (Unsupported <:*:> <:*:> <:*:>"
+1713:49:"DLL load failed: A dynamic link library <:*:> <:*:> routine <:*:>"
+156:47:"index <:NUM:> is out of bounds for <:*:> <:NUM:> with size <:NUM:>"
+401:46:"<:FID:> got an unexpected keyword argument <:*:>"
+522:46:"[Errno <:NUM:>] No such file or directory: <:*:>"
+84:45:"invalid <:*:>"
+353:45:"<:PATH:>"
+919:41:"in converted code:"
+166:40:"<:VID:> codec can't decode byte <:HEX:> in position <:NUM:>: invalid <:*:> <:*:>"
+3347:38:"mat1 and mat2 shapes cannot be multiplied <:*:> and <:*:>"
+3320:37:"Graph execution error:"
+122:36:tuple index out of range
+1687:33:"<:*:> missing <:NUM:> required positional argument: <:*:>"
+13:32:"unhashable type: <:*:>"
+142:32:"[WinError <:NUM:>] The specified module could not be <:*:>"
+194:32:"local variable <:VID:> referenced before assignment"
+1224:31:"Incompatible shapes: [<:NUM:>,<:NUM:>] vs. <:*:>"
+248:30:"The truth value of an array with more than one element is ambiguous. Use <:FID:> or <:*:>"
+3746:30:"The size of tensor a (<:NUM:>) must match the size of tensor b (<:NUM:>) at non-singleton dimension <:NUM:>"
+283:29:"<:FID:> argument must be a string, a bytes-like object or a number, not <:*:>"
+1048:26:"Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed <:*:>"
+3822:24:"Error(s) in loading <:VID:> for <:*:>"
+2228:23:"dlopen(<:PATH:>, <:NUM:>): Symbol not found: <:*:>"
+2349:21:"<:*:> No such file or <:*:>"
+948:20:"OOM when allocating tensor with shape[<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>] and type float on <:*:> by allocator <:*:>"
+1100:20:"Cast string to <:*:> is not supported"
+1305:20:"SavedModel file does not exist at: <:*:>"
+1932:20:"dlopen(<:PATH:>, <:NUM:>): Library not loaded: <:*:>"
+336:19:"<:VID:> object cannot be interpreted as an <:*:>"
+89:18:"type object <:VID:> has no attribute <:*:>"
+950:18:"Input to reshape is a tensor with <:NUM:> values, but the requested shape has <:NUM:>"
+1162:18:"cannot reshape array of size <:NUM:> into shape <:*:>"
+3346:18:"Dimension out of range (expected to be in range of [<:NUM:>, <:NUM:>], but got <:NUM:>)"
+3483:18:"Expected input <:VID:> (<:NUM:>) to match target <:VID:> (<:NUM:>)."
+365:17:"only integer scalar arrays can be converted to a scalar <:*:>"
+1348:17:"Expected binary or unicode string, got <:*:>"
+1688:17:"too many values to unpack (expected <:NUM:>)"
+1865:17:"invalid literal for <:FID:> with base <:NUM:>: <:*:>"
+1884:17:"Unsuccessful TensorSliceReader constructor: Failed to find any matching files for <:*:>"
+964:16:"No variables to <:*:>"
+3894:16:"Given groups=<:NUM:>, weight of size [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], expected input[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] to have <:NUM:> channels, but got <:NUM:> channels instead"
+2356:15:Error parsing message
+3968:15:"CUDA error: device-side assert triggered"
+1917:14:"module compiled against API version <:HEX:> but this version of numpy is <:HEX:>"
+3881:14:"index out of range in <:*:>"
+1123:13:"DLL load failed while importing _pywrap_tensorflow_internal: The specified module could not be found."
+2176:13:"HTTPSConnectionPool(host=<:VID:>, port=<:NUM:>): Read timed out."
+2296:13:"Cannot feed value of shape (<:NUM:>, <:NUM:>) for Tensor <:*:> which has shape <:*:> <:NUM:>)'"
+2785:13:"object of type <:VID:> has no <:FID:>"
+3887:13:"<:FID:>: argument <:VID:> (position <:NUM:>) must be <:*:> not <:*:>"
+3903:13:"Target <:NUM:> is out of <:*:>"
+786:12:"expected str, bytes or os.PathLike object, not <:*:>"
+3849:12:"CUDA out of memory. Tried to allocate <:NUM:>.<:NUM:> <:*:> (GPU <:NUM:>; <:NUM:>.<:NUM:> GiB total capacity; <:NUM:>.<:NUM:> <:*:> already allocated; <:*:> <:*:> free; <:NUM:>.<:NUM:> <:*:> reserved in total by PyTorch)"
+4056:12:"Expected all tensors to be on the same device, but found at least two devices, <:*:> and <:*:> (when checking <:*:> for argument <:*:> in method <:*:>"
+2165:11:"DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed."
+2290:11:"Can not convert a <:*:> into a Tensor or Operation."
+3733:11:"size mismatch, m1: [<:NUM:> x <:NUM:>], m2: [<:NUM:> x <:NUM:>] at <:*:>"
+2046:10:"gradient registry has no entry for: <:*:>"
+2377:10:"<:PATH:>: version <:VID:> not found (required by <:*:>"
+2524:10:"No module named <:VID:>; <:VID:> is not a package"
+3752:10:"Expected object of device type cuda but got device type cpu for argument #<:NUM:> <:VID:> in call to <:*:>"
+3776:10:"element <:NUM:> of tensors does not require grad and does not have a grad_fn"
+1188:9:The two structures don't have the same nested structure.
+1394:9:Dst tensor is not initialized.
+1881:9:"cannot import name <:VID:> from <:VID:> (unknown location)"
+2192:9:"Key <:PATH:> not found in checkpoint"
+2194:9:"The passed <:VID:> is not a valid checkpoint: <:*:>"
+3328:9:"Exception encountered when calling layer <:*:> (type <:*:>"
+3536:9:"expected scalar type Long but found <:*:>"
+3817:9:"mat1 dim <:NUM:> must match mat2 dim <:*:>"
+1694:8:"<:*:> must be <:*:>"
+2336:8:"Attempted to use a closed <:*:>"
+2977:8:"<:*:> takes <:NUM:> positional arguments but <:NUM:> <:*:> given"
+3445:8:"<:*:> not implemented for <:*:>"
+3880:8:"Caught TypeError in DataLoader worker process <:NUM:>."
+3906:8:"cuDNN error: <:*:>"
+1890:7:"argument of type <:VID:> is not iterable"
+2208:7:Graph is finalized and cannot be modified.
+2256:7:"Tensor conversion requested dtype <:*:> for Tensor with dtype <:*:> <:*:> <:*:> <:*:> <:*:> <:*:>"
+2446:7:"dlopen(<:PATH:>, <:NUM:>): no suitable image found. Did find:"
+2463:7:Wrong wire type in tag.
+2626:7:"DLL load failed: <:*:>"
+2653:7:"Variable <:PATH:> already exists, disallowed. Did you mean to set reuse=True or reuse=tf.AUTO_REUSE in VarScope? Originally defined at:"
+3637:7:"not enough values to unpack (expected <:NUM:>, got <:NUM:>)"
+3654:7:"<:*:> takes <:NUM:> positional argument but <:NUM:> were given"
+3786:7:"Can't get attribute <:VID:> on <module <:VID:> from <:PATH:>>"
+3800:7:"Caught RuntimeError in DataLoader worker process <:NUM:>."
+3814:7:"Found dtype Double but expected <:*:>"
+2253:6:"DLL load failed: %<:NUM:> is not a valid Win32 application."
+2528:6:"Can't load <:VID:> when it is None."
+3046:6:"Dimension <:NUM:> in both shapes must be equal, but are <:NUM:> and <:NUM:>. Shapes are <:*:> and <:*:>"
+3392:6:"Failed copying input tensor from <:PATH:>:<:PATH:>:<:PATH:>:<:PATH:>:CPU:<:NUM:> to <:PATH:>:<:PATH:>:<:PATH:>:<:PATH:>:GPU:<:NUM:> in order to run _EagerConst: Dst tensor is not initialized."
+3675:6:"invalid load key, <:*:>"
+3726:6:1D target tensor expected, multi-target not supported
+3741:6:"shape '[<:NUM:>, <:NUM:>]' is invalid for input of size <:NUM:>"
+3765:6:"Caught RuntimeError in replica <:NUM:> on device <:NUM:>."
+3844:6:Torch not compiled with CUDA enabled
+3907:6:"can't convert cuda:<:NUM:> device type tensor to numpy. Use <:FID:> to copy the tensor to host memory first."
+3919:6:"Can't get attribute <:VID:> on <module <:VID:> (built-in)>"
+4137:6:"stack expects each tensor to be equal size, but got [<:NUM:>, <:NUM:>, <:NUM:>] at entry <:NUM:> and [<:NUM:>, <:NUM:>, <:NUM:>] at entry <:NUM:>"
+1630:5:"Input <:VID:> of <:VID:> Op has type <:*:> that does not match type <:*:> of argument <:VID:>."
+2338:5:Attempting to capture an EagerTensor without building a function.
+2353:5:"Cannot feed value of shape (<:NUM:>, <:NUM:>, <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:>"
+2779:5:Could not find valid device for node.
+2838:5:"Tensor conversion requested dtype <:*:> for Tensor with dtype <:*:> <:*:> <:*:> <:*:> <:*:>"
+3377:5:"getattr(): attribute name must be string"
+3452:5:"<:FID:>: incompatible constructor arguments. The following argument types are supported:"
+3736:5:"Target and input must have the same number of elements. target nelement (<:NUM:>) != input nelement (<:NUM:>)"
+3743:5:"Given input size: <:*:> Calculated output size: <:*:> Output size is too small"
+3754:5:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], but got <:*:> <:*:> <:*:> <:*:> <:*:> <:NUM:>] instead"
+3772:5:"<:FID:> received an invalid combination of arguments - got <:*:> <:*:> <:*:> but expected one of:"
+3774:5:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight [<:NUM:>, <:NUM:>, <:*:> <:*:> <:*:> <:*:> input of size [<:NUM:>, <:NUM:>] instead"
+3779:5:"Attempting to deserialize object on a CUDA device but <:*:> is <:*:> If you are running on a CPU-only machine, please use torch.load with <:*:> to map your storages to the CPU."
+3795:5:"input must have <:NUM:> dimensions, got <:NUM:>"
+3859:5:Ran out of input
+4050:5:"CUDA out of memory. Tried to allocate <:NUM:>.<:NUM:> <:*:> (GPU <:NUM:>; <:NUM:>.<:NUM:> GiB total capacity; <:NUM:>.<:NUM:> <:*:> already allocated; <:NUM:>.<:NUM:> <:*:> free; <:NUM:>.<:NUM:> <:*:> reserved in total by PyTorch) If reserved memory is >> allocated memory try setting <:VID:> to avoid fragmentation. See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF"
+4167:5:Boolean value of Tensor with more than one value is ambiguous
+2601:4:"DLL load failed while importing _multiarray_umath: The specified module could not be found."
+2747:4:"Error when checking input: expected <:VID:> to have shape (<:NUM:>,) but got array with shape (<:NUM:>,)"
+2856:4:"The last dimension of the inputs to <:VID:> should be defined. Found <:VID:>."
+3106:4:"[Errno <:NUM:>] No such file or <:*:>"
+3124:4:"<:PATH:>: invalid ELF header"
+3209:4:"can't convert CUDA tensor to numpy. Use <:FID:> to copy the tensor to host memory first."
+3219:4:"[Errno <:NUM:>] Broken pipe"
+3345:4:"expected sequence of length <:NUM:> at dim <:NUM:> (got <:NUM:>)"
+3412:4:"cannot pickle <:VID:> object"
+3420:4:"dlopen(<:PATH:>, <:HEX:>): Symbol not found: <:*:>"
+3579:4:"numpy.ndarray size changed, may indicate binary incompatibility. Expected <:NUM:> from C header, got <:NUM:> from PyObject"
+3599:4:"CUDA error: no kernel image is available for execution on the device"
+3647:4:"process <:NUM:> terminated with signal <:*:>"
+3724:4:"Ubuntu <:NUM:>.<:NUM:>.<:NUM:> LTS"
+3794:4:An attempt has been made to start a new process before the
+3801:4:"<:FID:> received an invalid combination of arguments - got <:*:> <:*:> but expected one of:"
+3862:4:"Caught AttributeError in DataLoader worker process <:NUM:>."
+3864:4:"img should be PIL Image. Got <class <:*:>"
+3897:4:"stack expects each tensor to be equal size, but got [<:NUM:>] at entry <:NUM:> and [<:NUM:>] at entry <:NUM:>"
+3904:4:"Command '[<:VID:>, <:VID:>]' returned non-zero exit status <:NUM:>."
+3911:4:"Caught KeyError in DataLoader worker process <:NUM:>."
+3923:4:Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same
+3943:4:can't optimize a non-leaf Tensor
+3956:4:"CUDA error: an illegal memory access was encountered"
+3975:4:"Expected object of type torch.LongTensor but found type <:*:> for argument #<:NUM:> <:VID:>"
+4022:4:optimizer got an empty parameter list
+4039:4:"too many indices for tensor of dimension <:NUM:>"
+4045:4:expected scalar type Double but found Float
+4057:4:"Can't call <:FID:> on Tensor that requires grad. Use <:FID:> instead."
+4073:4:"Can't pickle local object <:*:>"
+4095:4:"Trying to backward through the graph a second time (or directly access saved <:*:> after they have already been freed). Saved intermediate values of the graph are freed when you call <:FID:> or <:FID:>. Specify retain_graph=True if you need to backward through the graph a second time or if you need to access saved <:*:> after calling <:*:>"
+4115:4:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.FloatTensor [<:NUM:>, <:NUM:>]], which is output <:NUM:> of <:*:> is at version <:NUM:>; expected version <:NUM:> instead. Hint: the backtrace further above shows the operation that failed to compute its gradient. The variable in question was changed in there or anywhere later. Good luck!"
+4249:4:"Caught ValueError in DataLoader worker process <:NUM:>."
+2830:3:"No gradients provided for any variable: [<:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>']."
+2881:3:Python int too large to convert to C long
+2904:3:Unable to open file (file signature not found)
+3002:3:"unsupported operand type(s) for /: <:VID:> and <:VID:>"
+3029:3:"only size-<:NUM:> arrays can be converted to Python scalars"
+3032:3:"file is too short to be an <:*:>"
+3037:3:"<:PATH:> doesn't match any files"
+3248:3:"<:FID:> missing <:NUM:> required positional argument: <:VID:>"
+3269:3:"Incompatible shapes: [<:NUM:>,<:NUM:>,<:NUM:>] vs. <:*:>"
+3341:3:"<:VID:> codec can't encode character <:*:> in position <:NUM:>: <:*:> <:*:> <:*:> <:*:>"
+3359:3:"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:<:NUM:>)"
+3371:3:"Cannot assign to variable <:PATH:>:<:NUM:> due to variable shape (<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>) and value shape (<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>) are incompatible"
+3382:3:"[Errno <:NUM:>] Not a directory: <:*:>"
+3427:3:"Exception encountered when calling layer """"sequential_<:NUM:>"""" (type Sequential)."
+3441:3:"<:*:> takes no <:*:>"
+3454:3:"[Errno <:NUM:>] Bad file descriptor"
+3543:3:"Cannot convert a symbolic Tensor (<:PATH:>:<:NUM:>) to a numpy array. This error may indicate that you're trying to pass a Tensor to a NumPy call, which is not supported"
+3575:3:"cannot unpack non-iterable <:*:> object"
+3586:3:"__array__() takes <:NUM:> positional argument but <:NUM:> were given"
+3641:3:"cannot import name <:VID:> from partially initialized module <:VID:> (most likely due to a circular import) <:*:>"
+3729:3:Trying to backward through the graph a second time, but the buffers have already been freed. Specify retain_graph=True when calling backward the first time.
+3735:3:"input.size(<:NUM:>) must be equal to input_size. Expected <:NUM:>, got <:NUM:>"
+3739:3:"Expected tensor for argument #<:NUM:> <:VID:> to have scalar type Long; but got <:*:> instead (while checking arguments for embedding)"
+3744:3:"Expected object of backend CPU but got backend CUDA for argument #<:NUM:> <:*:>"
+3751:3:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [<:NUM:>, <:NUM:>]], which is output <:NUM:> of <:*:> is at version <:NUM:>; expected version <:NUM:> instead. Hint: enable anomaly detection to find the operation that failed to compute its gradient, with torch.autograd.set_detect_anomaly(True)."
+3758:3:"Caught IndexError in DataLoader worker process <:*:>"
+3767:3:"pic should be PIL Image or ndarray. Got <:*:> <:*:>"
+3777:3:"multi-target not supported at <:PATH:>:<:NUM:>"
+3778:3:numpy.core.multiarray failed to import
+3805:3:"Expected object of backend CUDA but got backend CPU for argument #<:NUM:> <:*:>"
+3821:3:"cuda runtime error (<:NUM:>) : out of memory at <:PATH:>:<:NUM:>"
+3834:3:"CUDA error: invalid device ordinal"
+3837:3:"Caught AssertionError in DataLoader worker process <:*:>"
+3841:3:"CUDA error: out of memory"
+3843:3:"cuda runtime error (<:NUM:>) : device-side assert triggered at <:PATH:>:<:NUM:>"
+3846:3:"Expected object of scalar type Double but got scalar type Float for argument #<:NUM:> <:VID:> in call to <:*:>"
+3856:3:"HTTP Error <:NUM:>: Forbidden"
+3861:3:Input type (torch.cuda.FloatTensor) and weight type (torch.FloatTensor) should be the same
+3867:3:"Expected object of scalar type Float but got scalar type <:*:> for argument #<:NUM:> <:VID:>"
+3877:3:"Expected hidden[<:NUM:>] size (<:NUM:>, <:NUM:>, <:NUM:>), got <:*:> <:NUM:>, <:*:>"
+3918:3:"CUDA error: <:VID:> when calling `cublasCreate(handle)`"
+3940:3:"invalid argument <:NUM:>: Sizes of tensors must match except in dimension <:NUM:>. Got <:NUM:> and <:NUM:> in dimension <:NUM:> at <:PATH:>:<:NUM:>"
+3978:3:"Expected target size (<:NUM:>, <:NUM:>), got torch.Size([<:NUM:>, <:NUM:>, <:NUM:>])"
+3998:3:"Function <:VID:> returned nan values in its <:*:> output."
+4001:3:"Expected tensor to be a tensor image of size (C, H, W). Got <:FID:> = torch.Size([<:NUM:>, <:NUM:>])."
+4020:3:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [<:NUM:>, <:NUM:>]], which is output <:NUM:> of <:*:> is at version <:NUM:>; expected version <:NUM:> <:*:>"
+4023:3:"Expected all tensors to be on the same device, but found at least two devices, cuda:<:NUM:> and <:*:>"
+4033:3:Cannot convert a MPS Tensor to float64 dtype as the MPS framework doesn't support float64. Please use float32 instead.
+4041:3:"CUDA error: <:VID:> when calling `cublasSgemm( handle, opa, opb, m, n, k, &amp;alpha, a, lda, b, ldb, &amp;beta, c, ldc)`"
+4058:3:"CUDA error: unknown error"
+4063:3:"[WinError <:NUM:>] The specified procedure could not be found. Error loading ""<:PATH:>"" or one of its dependencies."
+4067:3:"<:FID:> received an invalid combination of arguments - got <:*:> Parameter, Parameter, tuple, tuple, tuple, int), but expected one of:"
+4074:3:object.__new__() takes exactly one argument (the type to instantiate)
+4075:3:"[Errno <:NUM:>] Stale file handle"
+4079:3:Expected a parent
+4089:3:"PyTorch convert function for op <:VID:> not implemented."
+4117:3:Found dtype Char but expected Float
+4139:3:"Target size (torch.Size([<:NUM:>])) must be the same as input size (torch.Size([<:NUM:>]))"
+4151:3:"<:NUM:> is not in <:*:>"
+4213:3:"module must have its parameters and buffers on device cuda:<:NUM:> (device_ids[<:NUM:>]) but found one of them on device: cpu"
+4246:3:"Expected object of scalar type Long but got scalar type <:*:> for argument #<:NUM:> <:VID:> in call to _thnn_nll_loss_forward"
+2928:2:Couldn't build proto file into descriptor pool!
+2951:2:"[WinError <:NUM:>] An existing connection was forcibly closed by the remote <:*:>"
+2968:2:"indices[<:NUM:>,<:NUM:>] = <:NUM:> is not in [<:NUM:>, <:NUM:>)"
+3040:2:"<:VID:> must be <:*:>"
+3073:2:single positional indexer is out-of-bounds
+3076:2:"Could not build a TypeSpec for <:NUM:> <:*:>"
+3100:2:"Op <:VID:> out of range: <:NUM:>. Are you using old TFLite binary with newer model?Registration failed."
+3137:2:"<:*:> missing <:NUM:> required positional arguments: <:VID:> and <:VID:>"
+3152:2:"<:*:> is not in <:*:>"
+3159:2:"axis <:NUM:> is out of bounds for array of dimension <:NUM:>"
+3177:2:"unsupported operand type(s) for -: <:VID:> and <:VID:>"
+3213:2:"[Errno <:NUM:>] Permission denied: <:PATH:> -> <:*:>"
+3220:2:"Negative dimension size caused by subtracting <:NUM:> from <:NUM:> for '{{node <:PATH:>}} = Conv2D[T=DT_FLOAT, data_format=""""NHWC"""", dilations=[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], explicit_paddings=[], padding=""""VALID"""", strides=[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], <:*:> <:PATH:> with input shapes: [?,<:NUM:>,<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>]."
+3276:2:"<:VID:> object does not support indexing"
+3293:2:must be real number, not NoneType
+3300:2:"Invalid shape (<:NUM:>, <:NUM:>, <:NUM:>) for image data"
+3301:2:"Input arrays should have the same number of samples as target arrays. Found <:NUM:> input samples and <:NUM:> target samples."
+3339:2:"shapes (<:NUM:>,<:NUM:>) and (<:NUM:>,<:NUM:>) not aligned: <:NUM:> (dim <:NUM:>) != <:NUM:> (dim <:NUM:>)"
+3361:2:"OOM when allocating tensor with shape[<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>] and type float on <:PATH:>:<:PATH:>:<:PATH:>:<:PATH:>:GPU:<:NUM:> by allocator GPU_<:NUM:>_bfc <:*:>"
+3369:2:"Unexpected result of <:VID:> (Empty batch_outputs). Please use `Model.compile(..., run_eagerly=True)`, or `tf.config.run_functions_eagerly(True)` for more information of where went wrong, or file a <:PATH:> to <:*:>"
+3381:2:Unable to convert function return value to a Python type! The signature was
+3408:2:"HTTP Error <:NUM:>: Not <:*:>"
+3415:2:"The expanded size of the tensor (<:NUM:>) must match the existing size (<:NUM:>) at non-singleton dimension <:NUM:>. Target sizes: [<:NUM:>, <:NUM:>]. Tensor sizes: [<:NUM:>, <:NUM:>]"
+3424:2:"<:FID:> argument <:NUM:> must be str, not <:*:>"
+3440:2:"Argument <:VID:> = None has invalid type """"NoneType"""". Cannot be None"
+3446:2:"An error occurred (ModelError) when calling the InvokeEndpoint operation:"
+3462:2:"Expect x to be a non-empty array or <:*:>"
+3465:2:"logits and labels must be broadcastable: logits_size=[<:NUM:>,<:NUM:>] labels_size=[<:NUM:>,<:NUM:>]"
+3468:2:Unknown image file format. One of JPEG, PNG, GIF, BMP required.
+3474:2:"Failed to convert elements of (None, <:NUM:>, <:NUM:>) to Tensor. Consider casting elements to a supported type. See https:<:PATH:> for supported TF dtypes."
+3482:2:"Cannot batch tensors with different shapes in component <:NUM:>. First element had shape <:*:> and element <:NUM:> had shape <:*:> [Op:IteratorGetNext]"
+3491:2:"unable to open file: libtensorflow_io.so, from paths: [<:PATH:>]"
+3503:2:"Could not find variable <:PATH:> This could mean that the variable has been deleted. In TF1, it can also mean the variable is uninitialized. Debug info: container=localhost, status error message=Container localhost does not exist. (Could not find resource: <:PATH:>"
+3505:2:"HashTable has different value for same key. Key <:*:> has <:NUM:> and trying to add value <:NUM:> <:*:>"
+3517:2:"Another metric with the same name already <:*:>"
+3542:2:"Length for attr <:VID:> of <:NUM:> must be at least minimum <:NUM:>"
+3553:2:Image transformations require SciPy. Install SciPy.
+3554:2:"Shapes (<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>) and (<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>) are incompatible"
+3555:2:"Sizes of tensors must match except in dimension <:NUM:>. Expected size <:NUM:> but got size <:NUM:> for tensor number <:NUM:> in the list."
+3558:2:"TypeError: unhashable type: <:VID:>"
+3566:2:"[Errno <:NUM:>] Operation timed out"
+3567:2:"Can not squeeze dim[<:NUM:>], expected a dimension of <:NUM:>, got <:NUM:>"
+3569:2:"[TypeError('cannot convert dictionary update sequence element #<:NUM:> to a sequence'), TypeError('vars() argument must have <:VID:> attribute')]"
+3570:2:No default context installed.
+3573:2:"Blas GEMM launch failed : a.shape=(<:NUM:>, <:NUM:>), b.shape=(<:NUM:>, <:NUM:>), m=<:NUM:>, n=<:NUM:>, k=<:NUM:>"
+3582:2:"cannot compute BatchMatMulV2 as input #<:NUM:>(zero-based) was expected to be a int64 tensor but is a double tensor [Op:BatchMatMulV2]"
+3584:2:Unable to find a valid cuDNN algorithm to run convolution
+3590:2:"The two structures do not match:"
+3591:2:Can't convert Python sequence with out-of-range integer to Tensor.
+3598:2:"could not convert string to float: <:*:>"
+3607:2:"Could not find the DLL(s) 'msvcp140.dll or msvcp140_<:NUM:>.dll'. TensorFlow requires that these DLLs be installed in a directory that is named in your %PATH% environment variable. You may install these DLLs by downloading """"Microsoft C++ Redistributable for Visual Studio <:NUM:>, <:NUM:> and <:NUM:>"""" for your platform from this URL: https:<:PATH:>"
+3610:2:"Tensor is unhashable. Instead, use <:FID:> as the key."
+3611:2:"Function invoked by the following node is not compilable: {{node __inference_predict_function_<:NUM:>}} = __inference_predict_function_<:NUM:>[_XlaMustCompile=true, config_proto="
+3613:2:"No OpKernel was registered to support Op <:VID:> used by {{node <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:> <:*:>"
+3646:2:Sample larger than population or is negative
+3655:2:"Data cardinality is ambiguous:"
+3656:2:Fail to find the dnn implementation.
+3658:2:"non-broadcastable output operand with shape (<:NUM:>,<:NUM:>) doesn't match the broadcast shape (<:NUM:>,<:NUM:>)"
+3676:2:"[Errno <:NUM:>] Connection refused"
+3684:2:"assertion failed: [Labels must <= <:VID:> - <:NUM:>] [Condition x <= y did not hold element-wise:x (<:PATH:>:<:NUM:>) = ] [[<:NUM:>][<:NUM:>][<:NUM:>]...] [y (<:PATH:>:<:NUM:>) = ] [<:NUM:>]"
+3690:2:"Failed to find data adapter that can handle input: <class"
+3691:2:"DLL load failed: Devingen bağlantı kitaplığını (DLL) başlatma işlem"
+3700:2:"<:FID:> takes from <:NUM:> to <:NUM:> positional arguments but <:NUM:> were given"
+3728:2:can't pickle _thread.lock objects
+3734:2:"You should install pytorch from http:<:PATH:>"
+3738:2:Input, output and indices must be on the current device
+3745:2:"invalid gradient at index <:NUM:> - expected <:*:> <:*:> but got <:*:>"
+3747:2:unpickling stack underflow
+3748:2:data type not understood
+3749:2:"Expected object of scalar type Float but got scalar type Double for argument #<:NUM:> <:VID:> in call to <:*:>"
+3750:2:"tensor(<:NUM:>)"
+3757:2:only one element tensors can be converted to Python scalars
+3759:2:bool value of Tensor with more than one value is ambiguous
+3766:2:"the derivative for <:VID:> is not implemented"
+3768:2:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight <:NUM:> <:NUM:> <:NUM:>, but got <:NUM:>-dimensional input of size [<:NUM:>, <:NUM:>, <:NUM:>] instead"
+3770:2:"<:FID:> takes <:NUM:> positional argument but <:NUM:> were given"
+3771:2:"Expected a cuda device with a specified index or an integer, but got:"
+3775:2:"NCCL error in: <:PATH:>:<:NUM:>, unhandled system error"
+3789:2:"[WinError <:NUM:>] The paging file is too small for this operation to complete. Error loading ""<:PATH:>"" or one of its dependencies."
+3799:2:"inconsistent tensor size at <:PATH:>:<:NUM:>"
+3803:2:"value cannot be converted to type <:VID:> without overflow: <:NUM:>.<:NUM:>"
+3808:2:"PyTorch does not currently provide packages for PyPI (see status at https:<:PATH:>"
+3811:2:h5py objects cannot be pickled
+3825:2:"Expected more than <:NUM:> value per channel when training, got input size [<:NUM:>, <:NUM:>]"
+3830:2:"Given groups=<:NUM:>, weight of size <:NUM:> <:NUM:> <:NUM:> <:NUM:>, expected input[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] to have <:NUM:> channels, but got <:NUM:> channels instead"
+3833:2:"Command '[<:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>]' returned non-zero exit status <:*:>"
+3852:2:"[enforce fail at CPUAllocator.cpp:<:NUM:>] . DefaultCPUAllocator: can't allocate memory: you tried to allocate <:NUM:> bytes. Error code <:NUM:> (Cannot allocate memory)"
+3857:2:"<:*:> <:VID:> not found"
+3868:2:"shape '[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]' is invalid for input of size <:NUM:>"
+3869:2:expected CPU (got CUDA)
+3870:2:tensors used as indices must be long, byte or bool tensors
+3875:2:"DataLoader worker (pid(s) <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>) exited unexpectedly"
+3883:2:"CUDA error: initialization error"
+3888:2:"cuda runtime error (<:NUM:>) : unknown error at <:*:>"
+3890:2:"[WinError <:NUM:>] <:*:>"
+3891:2:"You tried to install """"pytorch"""". The package named for PyTorch is """"torch"
+3909:2:"stat: path should be string, bytes, os.PathLike or integer, not <:*:>"
+3916:2:"Given input size: <:*:> Calculated output size: <:*:> Output size is too small at <:PATH:>:<:NUM:>"
+3925:2:"one of the variables needed for gradient computation has been modified by an inplace operation: <:*:> [<:NUM:>, <:NUM:>]] is at version <:NUM:>; expected version <:NUM:> instead. Hint: enable anomaly detection to find the operation that failed to compute its gradient, with torch.autograd.set_detect_anomaly(True)."
+3930:2:"Cannot re-initialize CUDA in forked subprocess. To use CUDA with multiprocessing, you must use the <:VID:> start method"
+3939:2:"CUDA error: unspecified launch failure"
+3945:2:"[Errno <:NUM:>] Invalid argument"
+3951:2:"'<' not supported between instances of <:VID:> and <:VID:>"
+3952:2:"The expanded size of the tensor (<:NUM:>) must match the existing size (<:NUM:>) at non-singleton dimension <:NUM:>. Target sizes: [<:NUM:>, <:NUM:>, <:NUM:>]. Tensor sizes: [<:NUM:>, <:NUM:>]"
+3955:2:"transform: failed to synchronize: cudaErrorIllegalAddress: an illegal memory access was encountered"
+3958:2:Input type (torch.cuda.ByteTensor) and weight type (torch.cuda.FloatTensor) should be the same
+3960:2:"function takes exactly <:NUM:> argument (<:NUM:> given)"
+3966:2:"[WinError <:NUM:>] The system cannot find the path specified: <:*:>"
+3967:2:"[Errno <:NUM:>] Connection reset by peer"
+3971:2:"DataLoader worker (pid <:NUM:>) is killed by signal: <:*:> <:*:>"
+3986:2:"output with shape [<:NUM:>, <:NUM:>, <:NUM:>] doesn't match the broadcast shape [<:NUM:>, <:NUM:>, <:NUM:>]"
+3990:2:"expected scalar type Float but found <:*:>"
+3991:2:"Caught OSError in DataLoader worker process <:NUM:>."
+4004:2:division by zero
+4012:2:"All bounding boxes should have positive height and width. Found <:*:> box [<:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>] for target at index <:NUM:>."
+4017:2:"Caught UnboundLocalError in DataLoader worker process <:NUM:>."
+4019:2:"cannot assign module before <:FID:> call"
+4029:2:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.FloatTensor [<:NUM:>]] is at version <:NUM:>; expected version <:NUM:> instead. Hint: the backtrace further above shows the operation that failed to compute its gradient. The variable in question was changed in there or anywhere later. Good luck!"
+4038:2:Error compiling objects for extension
+4051:2:"<:*:> got multiple values for argument <:VID:>"
+4053:2:"weight tensor should be defined either for all <:NUM:> classes or no classes but got weight tensor of shape: [<:NUM:>]"
+4054:2:"Expected 3D (unbatched) or 4D (batched) input to conv2d, but got input of size: [<:NUM:>, <:NUM:>]"
+4059:2:"Token is required (`token=True`), but no token found. You need to provide a token or be logged in to Hugging Face with `huggingface-cli login` or <:VID:>. See https:<:PATH:>"
+4064:2:"shape '[<:NUM:>, <:NUM:>, <:NUM:>]' is invalid for input of size <:NUM:>"
+4068:2:"Target size (torch.Size([<:NUM:>])) must be the same as input size (torch.Size([<:NUM:>, <:NUM:>]))"
+4071:2:"NCCL error in: <:PATH:>:<:NUM:>, invalid usage, NCCL version <:NUM:>.<:NUM:>.<:NUM:>"
+4078:2:"operands could not be broadcast together with shapes (<:NUM:>,<:NUM:>) (<:NUM:>,<:NUM:>)"
+4082:2:No CUDA GPUs are available
+4088:2:"default_collate: batch must contain tensors, numpy arrays, numbers, dicts or lists; found <class <:VID:>>"
+4099:2:"mse_cuda"""" not implemented for <:VID:> when training a transformer.Trainer"
+4104:2:"PytorchStreamReader failed reading zip archive: failed finding central directory"
+4105:2:"[Errno <:NUM:>] Is a directory: <:*:>"
+4118:2:"In automatic_optimization, when <:VID:> returns a dict, the <:VID:> key needs to be present"
+4122:2:Numpy is not available
+4125:2:Not compiled with GPU support
+4127:2:zero-size array to reduction operation maximum which has no identity
+4134:2:"Input type <:*:> is not supported"
+4149:2:can't set attribute
+4175:2:a view of a leaf Variable that requires grad is being used in an in-place operation.
+4178:2:"[Errno <:NUM:>] Invalid argument: <:PATH:>?dl=<:NUM:>.lock'"
+4190:2:"Sizes of tensors must match except in dimension <:NUM:>. Got <:NUM:> and <:NUM:> in dimension <:NUM:> (The offending index is <:NUM:>)"
+4201:2:'Indexing with integers (to access backend Encoding for a given batch index) is not available when using Python based tokenizers'
+4202:2:"Target size (torch.Size([<:NUM:>, <:NUM:>])) must be the same as input size (torch.Size([<:NUM:>, <:NUM:>]))"
+4203:2:"partially initialized module <:VID:> has no attribute <:VID:> (most likely due to a circular import)"
+4222:2:"HTTP Error <:NUM:>: rate limit exceeded"
+4242:2:each element in list of batch should be of equal size
+4243:2:Found dtype Long but expected Float
+4245:2:"[enforce fail at inline_container.cc:<:NUM:>] . PytorchStreamReader failed reading zip archive: failed finding central directory"
+4256:2:"<:FID:> argument must be a string or a number, not <:VID:>"
+4263:2:"only batches of spatial targets supported (3D tensors) but got targets of dimension: <:NUM:>"
+4266:2:"Error loading audio file: failed to open file <:PATH:>"
+4268:2:"1only batches of spatial targets supported (3D tensors) but got targets of size: : [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]"
+4279:2:"can't convert np.ndarray of type <:*:> The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint8, and bool."
+4298:2:"CUDA unknown error - this may be due to an incorrectly set up environment, e.g. changing env variable <:VID:> after program start. Setting the available devices to be zero."
+4304:2:"HTTP Error <:NUM:>: Service Unavailable"
+3449:1:"Input to reshape is a tensor with <:NUM:> values, but the requested shape has <:NUM:> [Op:Reshape]```"
+3450:1:"Shapes (<:NUM:>, <:NUM:>, <:NUM:>) and (None, None, None, None) must have the same rank"
+3451:1:"<:PATH:>: failed to map segment from shared object"
+3453:1:"Nothing to load. No dependencies have been added to <tensorflow.python.keras.engine.functional.Functional object at <:HEX:>> yet."
+3455:1:"End of sequence [Op:IteratorGetNext]"
+3456:1:"Failed to get url https:<:PATH:> HTTP code: <:NUM:>."
+3457:1:"No gradients provided for any variable: ([<:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>'],). Provided <:VID:> is ((None, MirroredVariable:{"
+3458:1:"Feature <:VID:> (Tensor(""""Identity_<:NUM:>:<:NUM:>"""", shape=(None, <:NUM:>, None), dtype=int64)) had invalid shape (None, <:NUM:>, None) for FixedLenFeature: apart from the batch dimension, all dimensions must have known size"
+3459:1:Graph Execution Error which points to model.fit(x_train, y_train).
+3460:1:"Some Python objects were not bound to checkpointed values, likely due to changes in the Python program: [<tf.Variable <:PATH:>:<:NUM:>' shape=(<:NUM:>,) dtype=float32, numpy=array([<:NUM:>., <:NUM:>., <:NUM:>., <:NUM:>., <:NUM:>., <:NUM:>., <:NUM:>., <:NUM:>., <:NUM:>., <:NUM:>.], dtype=float32)>, <tf.Variable <:PATH:>:<:NUM:>' shape=(<:NUM:>,) dtype=float32, numpy="
+3461:1:"Cannot set tensor: Dimension mismatch. Got <:NUM:> but expected <:NUM:> for input <:NUM:>."
+3463:1:Cannot convert a Tensor of dtype resource to a NumPy array.
+3464:1:File system for s3 already registered
+3466:1:"Only integers, slices (`:`), ellipsis (<:VID:>), tf.newaxis (<:VID:>) and scalar tf.<:PATH:> tensors are valid indices, got <tf.Tensor: shape=(<:NUM:>,), dtype=int64, numpy=array([ <:NUM:>, <:NUM:>, <:NUM:>, ..., <:NUM:>, <:NUM:>, <:NUM:>], dtype=int64)>"
+3467:1:"Incompatible shapes: [<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>] vs. [<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>]"
+3469:1:"The layer """"lstm"""" has multiple inbound nodes, with different output shapes. Hence the notion of """"output shape"""" is ill-defined for the layer. Use `get_output_shape_at(node_index)` instead."
+3470:1:Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same or input should be a MKLDNN tensor and weight is a dense tensor
+3471:1:"SystemError: <built-in method <:VID:> of dict object at <:HEX:>> returned a result with an error set"
+3472:1:cannot convert float infinity to integer
+3473:1:"<urlopen error unknown url type: https>"
+3475:1:"Weight count mismatch for top-level weights when loading weights from file. Model expects <:NUM:> top-level weight(s). Received <:NUM:> saved top-level weight(s)"
+3476:1:Cannot iterate over a scalar tensor.
+3477:1:"Layer weight shape (<:NUM:>, <:NUM:>) not compatible with provided weight shape (<:NUM:>, <:NUM:>, <:NUM:>)"
+3478:1:"<:VID:> was expecting model to be a trackable object (an object derived from <:VID:>), got RobertaForSequenceClassification("
+3479:1:"params must be at least <:NUM:> dimensional [Op:GatherV2]"
+3480:1:"Layer model expects <:NUM:> input(s), but it received <:NUM:> input tensors. Inputs received: [<tf.Tensor 'IteratorGetNext:<:NUM:>' shape=(None, None) dtype=float32>, <tf.Tensor 'IteratorGetNext:<:NUM:>' shape=(None, None) dtype=int32>, <tf.Tensor 'IteratorGetNext:<:NUM:>' shape=(None, None) dtype=float32>]"
+3481:1:"Invalid keyword argument(s) in <:FID:>: ({<:VID:>},). Valid keyword arguments include """"cloning"""", """"experimental_run_tf_function"""", """"distribute"""", """"target_tensors"""", or """"sample_weight_mode""""."
+3484:1:"Failed to queue inference: NC_ERROR[35mE: [global] [ <:NUM:>] [EventRead00Thr] handleIncomingEvent:<:NUM:> <:FID:> Read failed <:NUM:>"
+3485:1:"In[<:NUM:>] and In[<:NUM:>] must have compatible batch dimensions: [<:NUM:>,<:NUM:>,<:NUM:>] vs. [<:NUM:>,<:NUM:>,<:NUM:>] [Op:BatchMatMulV2]"
+3486:1:"signature_wrapper(*, FT_features) missing required arguments: FT_features"
+3487:1:"Attempt to convert a value (None) with an unsupported type (<class <:VID:>>) to a Tensor."
+3488:1:"Tensor(""""random_shuffle_queue_DequeueUpTo:<:NUM:>"""", shape=(None,), dtype=float64, device=<:PATH:>:CPU:<:NUM:>)"
+3489:1:"<:VID:> must be defined before the loop."
+3490:1:"Cannot convert a symbolic Tensor (<:PATH:>:<:NUM:>) to a numpy array."
+3492:1:"padded_shape[<:NUM:>]=<:NUM:> is not divisible by block_shape[<:NUM:>]=<:NUM:>"
+3493:1:"Method requires being in cross-replica context, use <:FID:>"
+3494:1:"No gradients provided for any variable, check your graph for ops that do not support gradients, between variables [""""<tf.Variable 'Variable_<:NUM:>:<:NUM:>' shape=(<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>) dtype=float32>""""] and loss Tensor(""<:PATH:>:<:NUM:>"""", shape=(<:NUM:>,), dtype=float32)."
+3495:1:"Dataset vctk not found. Available datasets:"
+3496:1:"cannot compute Sub as input #<:NUM:>(zero-based) was expected to be a float tensor but is a int32 tensor [Op:Sub]"
+3497:1:"Expected ':' but found ')'"
+3498:1:"All of the Tensors in <:VID:> must have two outer dimensions. Specifically, tensors must have shape `[B, T] + spec.shape`."
+3499:1:"Input <:NUM:> of layer """"sequential_<:NUM:>"""" is incompatible with the layer: expected shape=(None, <:NUM:>), found shape=(None, <:NUM:>)"
+3500:1:"[Errno <:NUM:>] Unable to open file (file read failed: time = Sun Mar <:NUM:> <:NUM:>:<:NUM:>:<:NUM:> <:NUM:>"
+3501:1:slice index of dimension out of bounds.
+3502:1:"<:NUM:>:<:NUM:> : Message type """"object_detection.protos.TrainConfig"""" has no field named """"fine_tune_checkpoint_version""""."
+3504:1:"No gradients provided for any variable: ['Variable:<:NUM:>', 'Variable:<:NUM:>', 'Variable:<:NUM:>']."
+3506:1:Connection error, and we cannot find the requested files in the cached path. Please try again or make sure your Internet connection is on.
+3507:1:"'[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] not in index'"
+3508:1:Exempi library not found.
+3509:1:"cannot identify image file <_io.BytesIO object at <:HEX:>>"
+3510:1:"Could not open <:PATH:>."
+3511:1:The _imagingft C module is not installed
+3512:1:"Incompatible shapes: [<:NUM:>] vs. [<:NUM:>] [Op:GreaterEqual]"
+3513:1:Out of range float values are not JSON compliant
+3514:1:"Graph disconnected: cannot obtain value for tensor KerasTensor(type_spec=TensorSpec(shape=(None, <:NUM:>, <:NUM:>, <:NUM:>), dtype=tf.float32, name=<:VID:>), name=<:VID:>, description=""""created by layer <:VID:>"""") at layer """"conv2d"""". The following previous layers were accessed without issue: [<:VID:>]"
+3515:1:"indices[<:NUM:>] = [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] does not index into shape [<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>]"
+3516:1:"Cannot add tensor to the batch: number of elements does not match. Shapes are: [tensor]: [<:NUM:>,<:NUM:>,<:NUM:>], [batch]: [<:NUM:>,<:NUM:>,<:NUM:>] [Op:IteratorGetNext]"
+3518:1:"Received a label value of <:NUM:> which is outside the valid range of [<:NUM:>, <:NUM:>). Label values: <:NUM:>"
+3519:1:"Failed to allocate scratch buffer for device <:NUM:>"
+3520:1:"Cannot set tensor: Dimension mismatch. Got <:NUM:> but expected <:NUM:> for dimension <:NUM:> of input <:NUM:>."
+3521:1:"all the input arrays must have same number of dimensions, but the array at index <:NUM:> has <:NUM:> dimension(s) and the array at index <:NUM:> has <:NUM:> dimension(s)"
+3522:1:"Error for Training job tf2-licence-detection-<:NUM:>-<:NUM:>-<:NUM:>-<:NUM:>-<:NUM:>-<:NUM:>-<:NUM:>: Failed. Reason: AlgorithmError: ExecuteUserScriptError:"
+3523:1:"('<:VID:> Optimizer (', <tensorflow.python.keras.optimizer_v1.SGD object at <:HEX:>>, ') is not supported when eager execution is enabled. Use a <:VID:> Optimizer instead, or disable eager execution.')"
+3524:1:Can't convert non-rectangular Python sequence to Tensor.
+3525:1:"No section: <:VID:>"
+3526:1:not a string
+3527:1:"Couldn't instantiate the backend tokenizer from one of:"
+3528:1:"Tensor conversion requested dtype int32 for Tensor with dtype float32: <tf.Tensor: shape=(<:NUM:>, <:NUM:>), dtype=float32, numpy=array([[<:NUM:>., <:NUM:>., <:NUM:>.]], dtype=float32)>"
+3529:1:"Error executing an HTTP request: HTTP response code <:NUM:> with body '{"
+3530:1:"Unknown image file format. One of JPEG, PNG, GIF, BMP required. [Op:DecodeJpeg]"
+3531:1:"Must have updates.shape = indices.shape + params.shape[<:NUM:>:] or updates.shape = [], got updates.shape [<:NUM:>], indices.shape [<:NUM:>], params.shape [<:NUM:>,<:NUM:>] [Op:ResourceScatterUpdate]"
+3532:1:required broadcastable shapes
+3533:1:"node <:VID:> in <:VID:> does not exist in graph (input_map entry: input_image:<:NUM:>->Placeholder:<:NUM:>)"
+3534:1:"<:VID:> not supported for <:NUM:>+ dimensional targets."
+3535:1:"signature_wrapper(kp_driving, kp_driving_jacobian, kp_source, kp_source_jacobian, source_image) takes <:NUM:> positional arguments but <:NUM:> were given"
+3537:1:"Some Python objects were not bound to checkpointed values, likely due to changes in the Python program: [<tf.Variable 'Variable:<:NUM:>' shape=(<:NUM:>,) dtype=int64, numpy=array([ <:SEQ:>, -<:SEQ:>, -<:SEQ:>])>]"
+3538:1:"Some Python objects were not bound to checkpointed values, likely due to changes in the Python program: [<tf.Variable 'Variable:<:NUM:>' shape=(<:NUM:>,) dtype=int64, numpy=array([<:SEQ:>, <:SEQ:>, <:SEQ:>])>]"
+3539:1:"Could not find variable <:PATH:> This could mean that the variable has been deleted. In TF1, it can also mean the variable is uninitialized. Debug info: container=localhost, status error message=Resource <:PATH:> does not exist."
+3540:1:"Unsupported data type <:NUM:> in tensor"
+3541:1:Module use of python36.dll conflicts with this version of Python.
+3544:1:Image size is zero
+3545:1:CUDNN_STATUS_BAD_PARAM
+3546:1:"Only integers, slices (`:`), ellipsis (<:VID:>), tf.newaxis (<:VID:>) and scalar tf.<:PATH:> tensors are valid indices, got array([<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>,"
+3547:1:"Model output """"Tensor(""<:PATH:>:<:NUM:>"""", shape=(?, <:NUM:>), dtype=float32)"""" has invalid shape. DQN expects a model that has one dimension for each action, in this case (<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>)."
+3548:1:"Failed to find data adapter that can handle input: (<class <:VID:>> containing values of types {""""<class <:VID:>>""""}), <class <:VID:>>"
+3549:1:"<:VID:> must have either <:NUM:> or <:NUM:> dimensions."
+3550:1:got_ver is None
+3551:1:"Expected float32, but got auto of type <:VID:>."
+3552:1:columns not found
+3556:1:"The size of the <:VID:> (<:NUM:>) couldn't be smaller than <:VID:> (<:NUM:>). To solve this problem, set the <:VID:> smaller or increase the size of the train_data."
+3557:1:Invalid datetime. It must be bigger than that last one
+3559:1:"[WinError <:NUM:>] No connection could be made because the target machine actively refused it"
+3560:1:"cannot compute Pack as input #<:NUM:>(zero-based) was expected to be a uint8 tensor but is a int64 tensor [Op:Pack] name: x**"
+3561:1:"x and y must have same first dimension, but have shapes (<:NUM:>,) and (<:NUM:>,)"
+3562:1:"module <:VID:> has no attribute"
+3563:1:tf.function-decorated function tried to create variables on non-first call.
+3564:1:"The list of inputs passed to the model is redundant. All inputs should only appear once. Found: [<:NUM:>, <:NUM:>]"
+3565:1:"<urlopen error [Errno <:NUM:>] Operation timed out>"
+3568:1:"Could not find matching function to call loaded from the SavedModel. Got:"
+3571:1:"Negative dimension size caused by subtracting <:NUM:> from <:NUM:> for '{{node <:PATH:>}} = MaxPool[T=DT_FLOAT, data_format=""""NHWC"""", ksize=[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], padding=""""VALID"""", strides=[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]](<:PATH:> with input shapes: [?,<:NUM:>,<:NUM:>,<:NUM:>]."
+3572:1:"Unable to allocate <:NUM:> bytes for an array with shape (<:NUM:>, <:NUM:>) and data type float32"
+3574:1:"cannot compute ConcatV2 as input #<:NUM:>(zero-based) was expected to be a int32 tensor but is a string tensor [Op:ConcatV2] name: concat"
+3576:1:"Could not find variable weights_<:NUM:>. This could mean that the variable has been deleted. In TF1, it can also mean the variable is uninitialized. Debug info: container=localhost, status=Not found: Resource <:PATH:> does not exist."
+3577:1:"Shapes of all inputs must match: values[<:NUM:>].shape = [<:NUM:>] != values[<:NUM:>].shape = [<:NUM:>]"
+3578:1:`build()` should be called before save if defer_build==True
+3580:1:Framework is not detected correctly from model format.
+3581:1:"Unsuccessful TensorSliceReader constructor: Failed to get matching files on <:PATH:>: Unimplemented: File system scheme '[local]' not implemented (file: <:PATH:>) [Op:Identity]"
+3583:1:"IProgress not found. Please update jupyter and ipywidgets. See https:<:PATH:>"
+3585:1:"indices[<:NUM:>] = [<:NUM:>] is repeated [Op:SparseToDense]"
+3587:1:Expected list, found tuple.
+3588:1:"multiple values for argument <:VID:>"
+3589:1:"required broadcastable shapes [Op:Mul]"
+3592:1:"Invalid input shapes: expected <:NUM:> items got <:NUM:> items."
+3593:1:"Module <:VID:> has no attribute <:VID:>"
+3594:1:Failed to convert a NumPy array to a Tensor (Unsupported object type
+3595:1:Failed to convert a NumPy array to a Tensor (Unsupported
+3596:1:Dataset(s) incompatible with Pandas data types, not table, or no datasets found in HDF5 file.
+3597:1:k exceeds matrix dimensions
+3600:1:"NodeDef mentions attr <:VID:> not in Op<name=Conv2D; signature=input:T, filter:T -> output:T; attr=T:type,allowed=[DT_HALF, DT_BFLOAT16, DT_FLOAT, DT_DOUBLE]; attr=strides:list(int); attr=use_cudnn_on_gpu:bool,default=true; attr=padding:string,allowed=[""""SAME"""", """"VALID""""]; attr=data_format:string,default=""""NHWC"""",allowed=[""""NHWC"""", """"NCHW""""]; attr=dilations:list(int),default=[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]>; NodeDef: {{node <:PATH:>}}. (Check whether your GraphDef-interpreting binary is up to date with your GraphDef-generating binary.)."
+3601:1:All arrays must be of the same length
+3602:1:"OOM when allocating tensor with shape[<:NUM:>,<:NUM:>] and type float on <:PATH:>:<:PATH:>:<:PATH:>:<:PATH:>:GPU:<:NUM:> by allocator GPU_<:NUM:>_bfc"
+3603:1:integer division or modulo by zero
+3604:1:"Two datasets to concatenate have different types (tf.float64, tf.float64) and (NoneTensorSpec(), <:FID:>, tf.float32)"
+3605:1:"The input must have <:NUM:> channels; got `input_shape=(<:NUM:>, <:NUM:>, <:NUM:>)`"
+3606:1:"required broadcastable shapes at loc(unknown) [Op:Mul]"
+3608:1:"[WinError <:NUM:>] The parameter is incorrect"
+3609:1:"<:PATH:>:<:NUM:>:<:NUM:>: error: <:VID:> op requires <:VID:> to be 1D tensor during TF Lite transformation pass"
+3612:1:"Missing <:NUM:>-th output from {{node <:PATH:>}}"
+3614:1:"The following are legacy tf.layers.Layers:"
+3615:1:"is not supported. See <:VID:>"
+3616:1:child index out of range
+3617:1:"Calling <:VID:> in graph mode is not supported when the <:VID:> instance was constructed with eager mode enabled. Please construct your <:VID:> instance in graph mode or call <:VID:> with eager mode enabled."
+3618:1:"Cannot convert value <tf.Tensor: shape=(), dtype=int32, numpy=<:NUM:>> to a TensorFlow DType."
+3619:1:Can only use .dt accessor with datetimelike values
+3620:1:"is not supported. See <:VID:> for features extractors compatible with different versions of Tensorflow"
+3621:1:DLL load failed while importing win32api,
+3622:1:"DLL load failed while importing win32api: Kan opgegeven procedure niet vinden."
+3623:1:"Expected Ptr<cv::UMat> for argument <:VID:>"
+3624:1:"Unable to read attribute (file read failed: time = Wed Jun <:NUM:> <:NUM:>:<:NUM:>:<:NUM:> <:NUM:>"
+3625:1:"Negative dimension size caused by subtracting <:NUM:> from <:NUM:> for '{{node <:PATH:>}} = MaxPool[T=DT_FLOAT, data_format=""""NHWC"""", explicit_paddings=[], ksize=[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], padding=""""VALID"""", strides=[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]](Placeholder)' with input shapes: [?,<:NUM:>,<:NUM:>,<:NUM:>]."
+3626:1:"Model output """"Tensor(""<:PATH:>:<:NUM:>"""", shape=(None, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>), dtype=float32)"""" has invalid shape. DQN expects a model that has one dimension for each action, in this case <:NUM:>."
+3627:1:No text files found.
+3628:1:"invalid path or file: <tf.Tensor 'args_<:NUM:>:<:NUM:>' shape=() dtype=string>"
+3629:1:Unable to cast from non-held to held instance (T&amp; to Holder<T>) (compile in debug mode for type information)
+3630:1:An op outside of the function building code is being passed
+3631:1:Input must be either real or complex
+3632:1:"Cannot evaluate tensor using <:FID:>: No default session is registered. Use `with <:FID:> or pass an explicit session to `eval(session=sess)`"
+3633:1:"Dimension <:NUM:> in both shapes must be equal, but are <:NUM:> and <:NUM:>. Shapes are [<:NUM:>,<:NUM:>] and [<:NUM:>,<:NUM:>]. for <:VID:> (op: <:VID:>) with input shapes: [<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>]."
+3634:1:"<:NUM:>:<:NUM:> : '<!DOCTYPE html>': Expected identifier or number, got <."
+3635:1:"Attempt to convert a value (<PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=474x266 at <:HEX:>>) with an unsupported type (<class <:VID:>>) to a Tensor."
+3636:1:"Expected 2D array, got scalar array instead:"
+3638:1:"<:PATH:>:<:NUM:> SizeOfDimension(op_context->paddings, <:NUM:>) != op_context->dims (<:NUM:> != <:NUM:>)Node number <:NUM:> (PAD) failed to prepare."
+3639:1:"Expected 'tf.Tensor(False, shape=(), dtype=bool)' to be true. Summarized data: b'No files matched pattern: <:PATH:>*.jpg'"
+3640:1:"Unable to import required dependencies:"
+3642:1:"Could not find the DLL(s) 'msvcp140.dll or msvcp140_<:NUM:>.dll'. TensorFlow requires that these DLLs be installed in a"
+3643:1:"Please initialize <:VID:> layer with a <:VID:> instance. You passed: <tensorflow.python.keras.engine.sequential.Sequential object at <:HEX:>>"
+3644:1:"Cannot use numpy array of type <:NUM:> for string tensor."
+3645:1:"DLL load failed: The specified module could not be found. Failed to load the native TensorFlow runtime."
+3648:1:"UnidentifiedImageError: cannot identify image file <_io.BytesIO object at <:HEX:>>"
+3649:1:"HashTable has different value for same key. Key item { has <:NUM:> and trying to add value <:NUM:> [Op:InitializeTableFromTextFileV2]"
+3650:1:"Items of <:VID:> must be a _FeatureColumn. Given (type <class <:VID:>>): [[<:NUM:>. <:NUM:>. <:NUM:>. ... <:NUM:>. <:NUM:>. <:NUM:>.]"
+3651:1:"Tensor(""""fifo_queue_DequeueUpTo:<:NUM:>"""", shape=(?, <:NUM:>, <:NUM:>, <:NUM:>), dtype=float64, device=<:PATH:>:CPU:<:NUM:>)"
+3652:1:"Layer <:VID:> expects <:NUM:> inputs, but it received <:NUM:> input tensors. Inputs received: [<tf.Tensor 'split:<:NUM:>' shape=(?, <:NUM:>) dtype=float32>, <tf.Tensor 'split:<:NUM:>' shape=(?, <:NUM:>) dtype=float32>"
+3653:1:"Shapes (<:NUM:>,) and (None, None) must have the same rank"
+3657:1:"command <:VID:> failed with exit status <:NUM:>"
+3659:1:"logits and labels must have the same first dimension, got logits shape [<:NUM:>,<:NUM:>] and labels shape [<:NUM:>]"
+3660:1:"invalid argument <:NUM:>:cannot perform reduction function max on tensor with no elements because the operation does not have an identity"
+3661:1:Expected 1D or 2D array, got 3D array instead
+3662:1:"No gradients provided for any variable: [<:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>', <:PATH:>:<:NUM:>']."
+3663:1:"No OpKernel was registered to support Op <:VID:> used by {{node <:PATH:>}} with these attrs: [_class=[""""loc:@<:PATH:>""], device_ordinal=<:NUM:>, shapes=[[<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>], [<:NUM:>,<:NUM:>]], dtypes=[DT_INT32, DT_INT32, DT_INT32, DT_INT32, DT_FLOAT, DT_INT32, DT_INT32], layouts=[]]"
+3664:1:"Cannot convert value <tensorflow.python.keras.losses.BinaryCrossentropy object at <:HEX:>> to a TensorFlow DType."
+3665:1:"[WinError <:NUM:>] Det angivne modul blev ikke fundet"
+3666:1:"**<:VID:> object is not callable**"
+3667:1:"<:VID:> does not input more than 2D array, got array with shape (<:NUM:>, <:NUM:>, <:NUM:>)"
+3668:1:"'The key `total_steps:<:NUM:>` does not exist. To extend the existing keys, use <:VID:> with <:VID:> = False.'"
+3669:1:Expected binary or unicode string, got item {
+3670:1:"Cannot convert a partially known TensorShape to a Tensor: (None, None, <:NUM:>)"
+3671:1:"ValueError: Error converting unicode string while converting Python sequenc"
+3672:1:Object arrays cannot be loaded when allow_pickle=False
+3673:1:"{{function_node __inference_f_<:NUM:>}} Input is not invertible."
+3674:1:"policy_state and <:VID:> structures do not match:"
+3677:1:Conv2DCustomBackpropFilterOp only supports NHWC.
+3678:1:"assertion failed: [<:NUM:>] [Op:Assert] name: EagerVariableNameReuse"
+3679:1:"output with shape [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] doesn't match the broadcast shape [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]"
+3680:1:"Cannot feed value of shape () for Tensor 'y_tensor:<:NUM:>', which has shape '(?,)'"
+3681:1:"Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above. [Op:Conv2D]"
+3682:1:"(<:NUM:>, ""<:PATH:> column <:VID:> used in key specification without a key length"""")"
+3683:1:"faster_rcnn_inception_v2 is not supported. See <:VID:> for features extractors compatible with different versions of Tensorflow"
+3685:1:"Matrix size-incompatible: In[<:NUM:>]: [<:NUM:>,<:NUM:>], In[<:NUM:>]: [<:NUM:>,<:NUM:>]"
+3686:1:"Only models with a single subgraph are supported, model had <:NUM:> subgraphs"
+3687:1:"Python inputs incompatible with input_signature:"
+3688:1:"DLL load failed while importing cv2: Not enough memory resources are available to process this command."
+3689:1:signal only works in main thread
+3692:1:"Expecting ',' delimiter: line <:NUM:> column <:NUM:> (char <:NUM:>)"
+3693:1:"A <:VID:> layer requires inputs with matching shapes except for the concat axis. Got inputs shapes: [(None, <:NUM:>, <:NUM:>, <:NUM:>), (None, <:NUM:>, <:NUM:>, <:NUM:>)]"
+3694:1:"<unknown>:<:NUM:>: error: loc(callsite(callsite(""<:PATH:>@__inference_call_func_<:NUM:>"""" at """"StatefulPartitionedCall@__inference_signature_wrapper_<:NUM:>"""") at """"StatefulPartitionedCall"""")): requires <:VID:> to be 1D tensor during TF Lite transformation pass <unknown>:<:NUM:>: note: loc(""""StatefulPartitionedCall""""): called from <unknown>:<:NUM:>: error: loc(callsite(callsite(""<:PATH:>@__inference_call_func_<:NUM:>"""" at """"StatefulPartitionedCall@__inference_signature_wrapper_<:NUM:>"""") at """"StatefulPartitionedCall"""")): failed to legalize operation <:VID:> that was explicitly marked illegal <unknown>:<:NUM:>: note: loc(""""StatefulPartitionedCall""""): called from"
+3695:1:"Expected multiples to be <:NUM:>-D, but got shape [] [Op:Tile]"
+3696:1:marshal data too short
+3697:1:"Failed copying input tensor from <:PATH:>:<:PATH:>:<:PATH:>:<:PATH:>:CPU:<:NUM:> to <:PATH:>:<:PATH:>:<:PATH:>:<:PATH:>:GPU:<:NUM:> in order to run Identity: Dst tensor is not initialized. [Op:Identity]"
+3698:1:"[Errno <:NUM:>] Address already in use"
+3699:1:"You have to specify either <:VID:> or decoder_inputs_embeds"
+3701:1:"Input <:NUM:> of layer sequential_<:NUM:> is incompatible with the layer: expected axis <:NUM:> of input shape to have value <:NUM:> but received input with shape (None, <:NUM:>)"
+3702:1:No trace event was collected because there were no responses from clients or the responses did not have trace data.
+3703:1:unexpected character after line continuation character
+3704:1:"DLL load failed while importing _pywrap_tensorflow_internal: 動態連結程式庫 (DLL) 初始化例行程序失敗。"
+3705:1:"Error no file named [<:VID:>, <:VID:>, <:VID:>] found in directory tensorflow/ or <:VID:> set to False"
+3706:1:"unsupported operand type(s) for *: <:VID:> and <:VID:>"
+3707:1:"Append(absl::Cord) is not implemented [Op:TakeDataset]"
+3708:1:"Failed to call ThenRnnBackward with model config: [rnn_mode, rnn_input_mode, rnn_direction_mode]: <:NUM:>, <:NUM:>, <:NUM:> , [num_layers, input_size, num_units, dir_count, max_seq_length, batch_size, cell_num_units]: [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]"
+3709:1:"StringToNumberOp could not correctly convert string: [Op:StringToNumber]"
+3710:1:"DLL load failed while importing _pywrap_tensorflow_internal: Eine DLL-Initialisierungsroutine ist fehlgeschlagen."
+3711:1:"Requested tensor connection from unknown node: """"dense_<:NUM:>_target:<:NUM:>""""."
+3712:1:"URL fetch failure on https:<:PATH:>: None -- [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:<:NUM:>)"
+3713:1:"('Keyword argument not understood:', <:VID:>)"
+3714:1:See console for info.
+3715:1:"<:VID:> object does not support item assignment"
+3716:1:"cannot compute Mul as input #<:NUM:>(zero-based) was expected to be a float"
+3717:1:"cudaGetDevice() failed. Status: cudaGetErrorString symbol not found."
+3718:1:"object <:VID:> method not producing an array"
+3719:1:"tfds build not supported yet (#<:NUM:>)."
+3720:1:"NewRandomAccessFile failed to <:PATH:>: C: ensorflow\workspacennotations\labelmap.pbtxt : The filename, directory name, or volume label syntax is incorrect."
+3721:1:"Input <:NUM:> of node <:PATH:> was passed float from <:PATH:>:<:NUM:> incompatible with expected int32."
+3722:1:"signature_wrapper(*, input_tensor) missing required arguments: input_tensor"
+3723:1:Tensor.op is meaningless when eager execution is enabled.
+3725:1:"tensor([[ <:NUM:>],"
+3727:1:"cannot call .data on a torch.Tensor: did you intend to use autograd.Variable?"
+3730:1:"unknown object type / typeidx: <:NUM:>"
+3731:1:error in LoadLibraryA
+3732:1:"Encountered exception in ProcessGroupAgent::enqueueSend: [<:PATH:>:<:NUM:>] Read error [<:ID:>::<:NUM:>]:<:NUM:>: Connection reset by peer"
+3737:1:"(""""None of [Index([<:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>,"
+3740:1:"Caught ValueError in replica <:NUM:> on device <:NUM:>."
+3742:1:"Runtime error: RuntimeError: Runtime error: Could not open u<:PATH:> for writing (HTTPSConnectionPool(host=<:VID:>, port=<:NUM:>): Read timed out.)."
+3753:1:"argument <:NUM:> is not a Variable"
+3755:1:Invalid dimensions for image data
+3756:1:"The expanded size of the tensor (<:NUM:>) must match the existing size (<:NUM:>) at non-singleton dimension <:NUM:>"
+3760:1:"<:FID:> == <:FID:> ASSERT FAILED at <:PATH:>:<:NUM:>, please report a bug to PyTorch. parameter types mismatch"
+3761:1:"[WinError <:NUM:>] La procédure spécifiée est introuvable"
+3762:1:only integer tensors of a single element can be converted to an index.
+3763:1:"Object of type <:VID:> is not JSON serializable"
+3764:1:"$ Torch: not enough memory: you tried to allocate 18GB. Buy new RAM! at <:PATH:>:<:NUM:>"
+3769:1:"could not broadcast input array from shape (<:NUM:>,<:NUM:>,<:NUM:>,<:NUM:>) into shape (<:NUM:>)"
+3773:1:Expected 4D tensor as input, got 2D tensor instead.
+3780:1:"Assertion `THIndexTensor_(size)(target, <:NUM:>) == batch_size' failed. at <:PATH:>:<:NUM:>"
+3781:1:"invalid argument <:NUM:>: only batches of spatial targets supported (3D tensors) but got targets of dimension: <:NUM:> at <:PATH:>:<:NUM:>"
+3782:1:"CUDA out of memory. Tried to allocate <:NUM:>.<:NUM:> GiB (GPU <:NUM:>; <:NUM:>.<:NUM:> GiB total capac"
+3783:1:"expected stride to be a single integer value or a list of <:NUM:> values to match the convolution dimensions, but got stride=[<:NUM:>, <:NUM:>]"
+3784:1:"[Errno <:NUM:>] <:PATH:> error"
+3785:1:The nvcc binary could not be located in your $PATH. Either add it to your path, or set $CUDAHOME
+3787:1:"object of type ‘function’ has no <:FID:>"
+3788:1:"CUDA_ERROR_CONTEXT_IS_DESTROYED: context is destroyed"
+3790:1:"Expected object of type Variable[torch.FloatTensor] but found type Variable[torch.cuda.FloatTensor] for argument #<:NUM:> <:VID:>"
+3791:1:"Exporting the operator <:VID:> to ONNX opset version <:NUM:> is not supported. Please open a bug to request ONNX export support for the missing operator."
+3792:1:CUDA_HOME environment variable is not set. Please set it to your CUDA install root.
+3793:1:"<:VID:> object has no attribute <:VID:>. You can only torch.load from a file that is seekable. Please pre-load the data into a buffer like io.BytesIO and try to load from it instead."
+3796:1:"Attempted to call `variable.set_data(tensor)`, but <:VID:> and <:VID:> have incompatible tensor type."
+3797:1:"start (<:NUM:>) + length (<:NUM:>) exceeds dimension size (<:NUM:>)."
+3798:1:"Failed to export an ONNX attribute 'onnx::Gather', since it's not constant, please try to make things (e.g., kernel size) static if possible"
+3802:1:offset is too big
+3804:1:"Directory './' is not installable. Neither <:VID:> nor <:VID:> found."
+3806:1:"expected device cuda:<:NUM:> but got device cpu"
+3807:1:stack expects a non-empty TensorList
+3809:1:"super(type, obj): obj must be an instance or subtype of type"
+3810:1:"Command '[<:VID:>, <:VID:>, <:VID:>]' returned non-zero exit status <:NUM:>"
+3812:1:"Unknown type annotation: '<class <:VID:>>'"
+3813:1:_thnn_mse_loss_forward is not implemented for type torch.cuda.LongTensor
+3815:1:Default process group is not initialized
+3816:1:"inconsistent tensor size, expected r_ [<:NUM:> x <:NUM:>], t [<:NUM:> x <:NUM:>] and src [<:NUM:>] to have the same number of elements, but got <:NUM:>, <:NUM:> and <:NUM:> elements respectively at <:PATH:>:<:NUM:>"
+3818:1:"cuda runtime error (<:NUM:>) : no CUDA-capable device is detected at <:PATH:>:<:NUM:>"
+3819:1:"<:FID:> == cudaSuccess ASSERT FAILED at <:PATH:>:<:NUM:>, please report a bug to PyTorch. (BatchNorm_Forward_CUDA at <:PATH:>:<:NUM:>)"
+3820:1:"<:FID:>: argument <:VID:> must be torch.device, not device"
+3823:1:"Unable to cast Python instance of type <class <:VID:>> to C++ type 'unsigned __int64'"
+3824:1:"module functions cannot set <:VID:> or METH_STATIC"
+3826:1:"python: undefined symbol: cudnnCreateDropoutDescriptor"
+3827:1:"function <:VID:> already has a docstring"
+3828:1:"Assertion `cur_target >= <:NUM:> &amp;&amp; <:VID:> < n_classes' failed. at <:PATH:>:<:NUM:>"
+3829:1:"Given groups=<:NUM:>, weight of size <:NUM:> <:NUM:> <:NUM:> <:NUM:>, expected input[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] to have <:NUM:> channels,"
+3831:1:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight <:NUM:> <:NUM:> <:NUM:> <:NUM:>, but got <:NUM:>-dimensional input of size [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] instead"
+3832:1:"DataLoader worker (pid <:NUM:>) exited unexpectedly with exit code <:NUM:>. Details are lost due to multiprocessing."
+3835:1:"Trying to create tensor with negative dimension <:NUM:>: [<:NUM:>]"
+3836:1:"Dependency missing in current win-<:NUM:> channels:"
+3838:1:repeated axis in transpose
+3839:1:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [<:NUM:>, <:NUM:>, <:NUM:>]], which is output <:NUM:> of SelectBackward, is at version <:NUM:>; expected version <:NUM:> instead. Hint: the backtrace further above shows the operation that failed to compute its gradient. The variable in question was changed in there or anywhere later. Good luck!"
+3840:1:input has less dimensions than expected
+3842:1:"input and target shapes do not match: input [<:NUM:> x <:NUM:> x <:NUM:> x <:NUM:>], target [<:NUM:> x <:NUM:> x <:NUM:> x <:NUM:>] at <:PATH:>:<:NUM:>"
+3845:1:tile cannot extend outside the image
+3847:1:"Unrecognized model identifier in <:PATH:> Should contains one of <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>"
+3848:1:"Model name <:PATH:> was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). We assumed <:PATH:> was a path or url to a directory containing vocabulary files named [<:VID:>] but couldn't find such vocabulary files at this path or url."
+3850:1:"Can't call <:FID:> on Variable that requires grad. Use <:FID:> instead."
+3851:1:"cuda runtime error (<:NUM:>) : no kernel image is available for execution on the device at <:PATH:>"
+3853:1:"reduce failed to synchronize: device-side assert triggered"
+3854:1:"<class <:VID:>>"
+3855:1:"Expected object of type torch.FloatTensor but found type torch.sparse.FloatTensor for argument #<:NUM:> <:VID:>"
+3858:1:"Can't get attribute <:VID:> on <module <:VID:>>"
+3860:1:"addmm_ received an invalid combination of arguments - got (int, int, torch.cuda.FloatTensor, torch.FloatTensor), but expected one of: (torch.cuda.FloatTensor mat1, torch.cuda.FloatTensor mat2)"
+3863:1:"Command '[<:VID:>, <:VID:>, <:VID:>, <:VID:>]'"
+3865:1:"pic should be <:PATH:> dimensional. Got <:NUM:> dimensions."
+3866:1:"The current Numpy installation (<:PATH:>"
+3871:1:Invalid data received
+3872:1:scalar should be 0D
+3873:1:"[enforce fail at inline_container.cc:<:NUM:>] . file not found: <:PATH:>"
+3874:1:"cuDNN version mismatch: PyTorch was compiled against <:NUM:> but linked against <:NUM:>"
+3876:1:"Can’t pickle <function pad3d at <:HEX:>>: it’s not the same object as main.pad3d"
+3878:1:Overflow when unpacking long
+3879:1:"[WinError <:NUM:>] Le module spécifié est introuvable"
+3882:1:"Expected target size (<:NUM:>, <:NUM:>), got torch.Size([<:NUM:>])"
+3884:1:bad value(s) in fds_to_keep
+3885:1:"unsupported operand type(s) for %: <:VID:> and <:VID:>"
+3886:1:can't pickle cv2.CLAHE objects
+3889:1:Input z must be at least a 2x2 array.
+3892:1:CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+3893:1:"DataLoader worker (pid(s) <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>) exited unexpectedly"
+3895:1:Invalid device id
+3896:1:"pic should be Tensor or ndarray. Got <class <:VID:>>."
+3898:1:"can't convert np.ndarray of type numpy.str_. The only supported types are: float64, float32, float16, int64, int32, int16, int8, and uint8."
+3899:1:axes don't match array
+3900:1:number of dims don't match in permute
+3901:1:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight <:NUM:> <:NUM:> <:NUM:> <:NUM:>, but got <:NUM:>-dimensional input of size [<:NUM:>, <:NUM:>, <:NUM:>] instead"
+3902:1:"<:FID:> received an invalid combination of arguments - got (out=NoneType, axis=int, dtype=NoneType, ), but expected one of:"
+3905:1:"value cannot be converted to type float without overflow: inf"
+3908:1:"Expected a <:VID:> device type for generator but found <:VID:>"
+3910:1:"Expected object of scalar type Long but got scalar type Float for sequence element <:NUM:> in sequence argument at position #<:NUM:> <:VID:>"
+3912:1:object too deep for desired array
+3913:1:grad can be implicitly created only for scalar outputs
+3914:1:"[Errno <:NUM:>] Cannot allocate memory"
+3915:1:"invalid argument <:NUM:>: Tensors must have same number of dimensions: got <:NUM:> and <:NUM:> at <:PATH:>:<:NUM:>"
+3917:1:Tests how the memory doesn't get freed up when running multiprocessing with PyTorch Model forward pass
+3920:1:"file distilroberta-<:PATH:> not found"
+3921:1:unindent does not match any outer indentation level
+3922:1:"Expected object of scalar type Double but got scalar type Long for sequence element <:NUM:> in sequence argument at position #<:NUM:> <:VID:>"
+3924:1:one of the variables needed for gradient computation
+3926:1:expected torch.LongTensor (got torch.cuda.FloatTensor)
+3927:1:"tensor([ <:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>]) () invalid"
+3928:1:"<:FID:>: expected both inputs to be on same device, but input a is on cuda:<:NUM:> and input b is on cuda:<:NUM:>"
+3929:1:"[WinError <:NUM:>] %<:NUM:> is not a valid Win32 application"
+3931:1:"CUDA error (<:NUM:>): invalid device ordinal"
+3932:1:"cat received an invalid combination of arguments - got (tuple, int), but expected one of:"
+3933:1:"Target size (torch.Size([<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>])) must be the same as input size (torch.Size([<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]))"
+3934:1:"Target size (torch.Size([<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>])) must be the same as"
+3935:1:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight <:NUM:> <:NUM:> <:NUM:> <:NUM:> <:NUM:>, but got <:NUM:>-dimensional input of size [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] instead"
+3936:1:"ONNX export failed: Couldn't export operator aten::lstm"
+3937:1:"at site """"class_labels"""", invalid <:VID:> shape"
+3938:1:"Floating point image RGB values must be in the <:NUM:>..<:NUM:> range."
+3941:1:Expected object of type torch.FloatTensor but found type
+3942:1:The input must be contiguous.
+3944:1:"Could not find module <:PATH:>. Try using the full path with constructor syntax."
+3946:1:"expected dtype Float but got dtype Long (validate_dtype at <:PATH:>:<:NUM:>)"
+3947:1:"DataLoader worker (pid <:NUM:>) is killed by signal: Unknown signal: <:NUM:>."
+3948:1:"arguments are located on different GPUs at <:PATH:>:<:NUM:>"
+3949:1:"at::cuda::blas::gemm<float> argument ldb must be positive and less than <:NUM:> but got <:NUM:>"
+3950:1:"cuda runtime error (<:NUM:>) : initialization error at <:PATH:>:<:NUM:>"
+3953:1:"process <:NUM:> terminated with exit code <:NUM:>"
+3954:1:"Caught RuntimeError in DataLoader worker process <:NUM:>. Original Traceback (most recent"
+3957:1:"fractional_max_pool2d_backward_out_cuda failed with error code <:NUM:>"
+3959:1:Padding_idx must be within num_embeddings
+3961:1:can't disable profiler when it's not running```
+3962:1:"<:PATH:>: file too short"
+3963:1:"Expected target size (<:NUM:>, <:NUM:>), got torch.Size([<:NUM:>, <:NUM:>])"
+3964:1:"Function MulBackward0 returned an invalid gradient at index <:NUM:> - expected type torch.cuda.FloatTensor but got torch.FloatTensor"
+3965:1:"size mismatch, m1: [<:NUM:> x <:NUM:>], m2: [<:NUM:> x <:NUM:>] at"
+3969:1:"Caught RuntimeError in DataLoader worker process <:NUM:>. Original Traceback (most recent call last):"
+3970:1:max() arg is an empty sequence
+3972:1:"[ONNXRuntimeError] : <:NUM:> : <:VID:> : Non-zero status code returned while running Resize node. Name:'' Status Message: <:PATH:>:<:NUM:> void onnxruntime::UpsampleBase::ScalesValidation(const std::vector<float>&amp;, onnxruntime::UpsampleMode) const <:FID:> == <:NUM:> || (scales.size() == <:NUM:> &amp;&amp; scales[<:NUM:>] == <:NUM:> &amp;&amp; scales[<:NUM:>] == <:NUM:>) was false. <:VID:> mode and <:VID:> mode only support <:NUM:>-D inputs (<:VID:>, <:VID:>) or <:NUM:>-D inputs with the corresponding outermost <:NUM:> scale values being <:NUM:> in the Resize operator"
+3973:1:"Invalid file path or buffer object type: <class <:VID:>>"
+3974:1:"[Errno <:NUM:>] Is a directory: <:PATH:> <:PATH:>"
+3976:1:cannot assign ‘torch.FloatTensor’ as parameter ‘weight’ (torch.nn.Parameter or None expected)”
+3977:1:"<:FID:> expected a character, but string of length <:NUM:> found"
+3979:1:"[Errno <:NUM:>] No such file or directory: <:PATH:> <:PATH:> Learning <:PATH:>"
+3980:1:"shape '[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]' is invalid for input of size <:NUM:>"
+3981:1:ZeroDivisionError
+3982:1:The following operation failed in the TorchScript interpreter.
+3983:1:"[WinError <:NUM:>] The operating system cannot run %<:NUM:>. Error loading ""<:PATH:>"" or one of its dependencies."
+3984:1:"cublas runtime error : resource allocation failed at <:PATH:>:<:NUM:>"
+3985:1:"The flag <:VID:> is defined twice. First from <:PATH:>, Second from <:PATH:> Description from first occurrence: (no help available)"
+3987:1:"<:PATH:>: version <:VID:> not found"
+3988:1:Image data of dtype object cannot be converted to float
+3989:1:"Packages missing in current channels:"
+3992:1:"minimal distance between crop and border is less than <:NUM:>"
+3993:1:"1only batches of spatial targets supported (non-empty 3D tensors) but got targets of size: : [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]"
+3994:1:invalid unordered_map<K, T> key
+3995:1:"signal number <:NUM:> out of range"
+3996:1:"can't convert np.ndarray of type numpy.uint16. The only supported types are: float64, float32, float16, int64, int32, int16, int8, uint8, and bool."
+3997:1:"default_collate: batch must contain tensors, numpy arrays, numbers, dicts or lists; found"
+3999:1:Expected isFloatingType(grads[i].type().scalarType()) to be true, but got false. (Could this error message be improved? If so, please report an enhancement request to PyTorch.)
+4000:1:attempted relative import with no known parent package
+4002:1:some of the strides of a given numpy array are negative. This is currently not supported, but will be added in future release
+4003:1:"cannot assign <:VID:> as parameter <:VID:> (torch.nn.Parameter or None expected)"
+4005:1:"'module name can\'t contain """".""""'"
+4006:1:"cuda runtime error (<:NUM:>) : all CUDA-capable devices are busy or unavailable at <:PATH:>:<:NUM:>"
+4007:1:"reduce failed to synchronize: cudaErrorAssert: device-side assert triggered"
+4008:1:"Inconsistent parameter shapes passed in. Expected parameter <:NUM:> to have non-batched shape of (<:NUM:>,) but got torch.Size([<:NUM:>, <:NUM:>])."
+4009:1:"Cowardly refusing to serialize non-leaf tensor which requires_grad, since autograd does not support crossing process boundaries. If you just want to transfer the data, call <:FID:> on the tensor before serializing (e.g., putting it on the queue)."
+4010:1:"cuda runtime error (<:NUM:>) : operation not supported at <:PATH:>:<:NUM:>"
+4011:1:Input type (CUDAFloatTensor) and weight type (CPUFloatTensor) should be the same
+4013:1:"CUDA_ERROR_ILLEGAL_ADDRESS: an illegal memory access was encountered"
+4014:1:"CUDA error: invalid configuration argument"
+4015:1:"<:VID:> can only save input or output tensors, but argument <:NUM:> doesn't satisfy this condition"
+4016:1:could not get source code
+4018:1:"DLL load failed:"
+4021:1:"__call__() takes <:NUM:> positional arguments but <:NUM:> were given"
+4024:1:Variable data has to be a tensor, but got Variable
+4025:1:"input has inconsistent input_size: got <:NUM:>, expected <:NUM:>"
+4026:1:"invalid multinomial distribution (encountering probability entry < <:NUM:>)"
+4027:1:"Function AddBackward0 returned an invalid gradient at index <:NUM:> - expected type TensorOptions(dtype=float, device=cpu, layout=Strided, requires_grad=false) but got TensorOptions(dtype=float, device=cuda:<:NUM:>, layout=Strided, requires_grad=false) (validate_outputs at <:PATH:>:<:NUM:>)"
+4028:1:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]], which is output <:NUM:> of SigmoidBackward, is at version <:NUM:>; expected version <:NUM:> instead. Hint: enable anomaly detection to find the operation that failed to compute its gradient, with torch.autograd.set_detect_anomaly(True)."
+4030:1:a leaf Variable that requires grad has been used in an in-place operation.
+4031:1:"text input must of type <:VID:> (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples)."
+4032:1:"[Errno <:NUM:>] File exists: <:PATH:>"
+4034:1:"Unsupported number of image dimensions: <:NUM:>"
+4035:1:Open3D was not built with PyTorch support!
+4036:1:"[Errno <:NUM:>] No space left on device"
+4037:1:mat1 and mat2 must have the same dtype
+4040:1:0D or 1D target tensor expected, multi-target not supported
+4042:1:"Failed to load PyTorch C extensions:"
+4043:1:"array([<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, ....])"
+4044:1:"Attempting CUDA graph capture of <:FID:> for an instance of Adam but this instance was constructed with capturable=False."
+4046:1:"derivative for aten::scatter_ is not implemented"
+4047:1:"[WinError <:NUM:>] The specified module could not be found. Error loading ""<:PATH:>"" or one of its dependencies."
+4048:1:Mask Type should be defined```
+4049:1:"[enforce fail at <:PATH:>:<:NUM:>] data. DefaultCPUAllocator: not enough memory: you tried to allocate <:NUM:> bytes."
+4052:1:indices should be either on cpu or on the same device as the indexed tensor (cpu)
+4055:1:"Argument passed to <:FID:> was not in the map."
+4060:1:"bytes must be in range(<:NUM:>, <:NUM:>)"
+4061:1:"Module [DQN] is missing the required """"forward"""" function"
+4062:1:"The model did not return a loss from the inputs, only the following keys: logits,past_key_values. For reference, the inputs it received are input_ids,token_type_ids,attention_mask."
+4065:1:"The updates tensor should have shape (). Got (<:NUM:>, <:NUM:>)"
+4066:1:"<:FID:> got multiple values for argument <:VID:>"
+4069:1:"[WinError <:NUM:>] The system cannot find the file specified"
+4070:1:"Expected numpy array with ndim <:VID:> but got <:VID:>"
+4072:1:"expand(torch.FloatTensor{[<:NUM:>, <:NUM:>]}, size=[<:NUM:>]): the number of sizes provided (<:NUM:>) must be greater or equal to the number of dimensions in the tensor (<:NUM:>)"
+4076:1:Index tensor must have the same number of dimensions as input tensor
+4077:1:"The expanded size of the tensor (<:NUM:>) must match the existing size (<:NUM:>) at non-singleton dimension <:NUM:>. Target sizes: [<:NUM:>, <:NUM:>, <:NUM:>]. Tensor sizes: [<:NUM:>, <:NUM:>, <:NUM:>]"
+4080:1:"NCCL Error <:NUM:>: unhandled system error"
+4081:1:"Using a target size (torch.Size([<:NUM:>, <:NUM:>])) that is different to the input size (torch.Size([<:NUM:>, <:NUM:>])) is deprecated. Please ensure they have the same size."
+4083:1:"comparison of imgs failed: <:FID:>=None"
+4084:1:...long msg...
+4085:1:"Error for some reason, got: data_idx=<:NUM:>, <:FID:>=tensor(<:NUM:>.<:NUM:>), <:FID:>=tensor(<:NUM:>.<:NUM:>), x=tensor([[[<:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>, ..., <:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>, <:NUM:>.<:NUM:>],"
+4086:1:"Error while creating graph from input of type """"<class <:VID:>>""""."
+4087:1:DGLGraph.from_networkx is deprecated. Please call the following
+4090:1:context has already been set
+4091:1:Could not infer dtype of generator
+4092:1:"Command '[<:VID:>, <:VID:>, <:VID:>, <:VID:>]' returned non-zero exit status <:NUM:>."
+4093:1:"The shape of the mask [<:NUM:>] at index <:NUM:> does not match the shape of the indexed tensor [<:NUM:>, <:NUM:>] at index <:NUM:>"
+4094:1:Expected floating point type for target with class probabilities, got Long
+4096:1:"Output <:NUM:> of TBackward0 is a view and its base or another view of its base has been modified inplace. This view is the output of a function that returns multiple views. Such functions do not allow the output views to be modified inplace. You should replace the inplace operation by an out-of-place one."
+4097:1:"malformed node or string: <_ast.Call object at <:HEX:>>"
+4098:1:"<:VID:> needs to have shape with size at least <:NUM:>, but got torch.Size([<:NUM:>])."
+4100:1:Only Tensors of floating point and complex dtype can require gradients
+4101:1:"Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http:<:PATH:>"
+4102:1:"estimator should be an estimator implementing <:VID:> method, None was passed"
+4103:1:"Cannot clone object '<pytorch_tabular.tabular_model.TabularModel object at <:HEX:>>' (type <class <:VID:>>): it does not seem to be a scikit-learn estimator as it does not implement a <:VID:> method."
+4106:1:"('Trials did not complete', [tune_with_parameters_a90c2_<:NUM:>, tune_with_parameters_a90c2_<:NUM:>,"
+4107:1:"('Trials did not complete', [train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>, train_tune_6f362_<:NUM:>])"
+4108:1:"('Trials did not complete', [train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>, train_tune_43fd5_<:NUM:>])"
+4109:1:"The <:VID:> has to be an integer tensor."
+4110:1:"Expected target boxes to be a tensor of shape [N, <:NUM:>], got torch.Size([<:NUM:>])."
+4111:1:"4D tensors expect <:NUM:> values for padding"
+4112:1:Input type (torch.cuda.DoubleTensor) and weight type (torch.cuda.FloatTensor) should be the same
+4113:1:"mat2 must be a matrix, got <:NUM:>-D tensor"
+4114:1:"Expected input images to be of floating type (in range [<:NUM:>, <:NUM:>]), but found type torch.quint8 instead"
+4116:1:"Caught EOFError in DataLoader worker process <:NUM:>."
+4119:1:"Invalid learning rate: <:NUM:>.<:NUM:>"
+4120:1:"Found input variables with inconsistent numbers of samples: [<:NUM:>, <:NUM:>]"
+4121:1:"[WinError <:NUM:>] <no description> Error loading ""<:PATH:>"" or one of its dependencies."
+4123:1:"<urlopen error [Errno <:NUM:>] Temporary failure in name resolution>"
+4124:1:"Expected <:FID:> to be true, but got false. (Could this error message be improved? If so, please report an enhancement request to PyTorch.)"
+4126:1:"Given groups=<:NUM:>, weight of size [<:NUM:>, <:NUM:>, <:NUM:>], expected input[<:NUM:>, <:NUM:>, <:NUM:>] to have <:NUM:> channels, but got <:NUM:> channels instead"
+4128:1:tuple indices must be integers or slices, not tuple
+4129:1:"vars() argument must have <:VID:> attribute"
+4130:1:the feature number of src and tgt must be equal to d_model
+4131:1:expected string or bytes-like object
+4132:1:"Currently topk on mps works only for k<=<:NUM:>"
+4133:1:expected scalar type double but found float
+4135:1:"scatter_add() takes from <:NUM:> to <:NUM:> positional arguments but <:NUM:> were given"
+4136:1:Trying to backward through the graph a second time (or directly access saved
+4138:1:"[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:<:NUM:>)"
+4140:1:torch.nn.functional.binary_cross_entropy and torch.nn.BCELoss are unsafe to autocast.
+4141:1:"<:FID:>: argument <:VID:> (position <:NUM:>) must be tuple of ints, not tuple"
+4142:1:"<:VID:>**"
+4143:1:"<:VID:> object has no attribute <:VID:> ```"
+4144:1:"connect: Resource temporarily unavailable (this error originated at <:PATH:>:<:NUM:>)"
+4145:1:"size shape must match input shape. Input is 2D, size is <:NUM:>"
+4146:1:Dataset not found
+4147:1:Ninja is required to load C++ extensions```
+4148:1:sparse tensors do not have strides
+4150:1:"CUDA error: <:VID:> when calling `cublasSgemmStridedBatched( handle, opa, opb, m, n, k, &amp;alpha, a, lda, stridea, b, ldb, strideb, &amp;beta, c, ldc, stridec, num_batches)`"
+4152:1:"Command '[<:VID:>, <:PATH:>, '-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=<:PATH:>, '-DPYTHON_EXECUTABLE=<:PATH:>, '-DCMAKE_BUILD_TYPE=Release']' returned non-zero exit status <:NUM:>."
+4153:1:"min(): Expected reduction dim to be specified for <:FID:> == <:NUM:>. Specify the reduction dim with the <:VID:> argument."
+4154:1:"param <:VID:> is not specified in param_groups[<:NUM:>] when resuming an optimizer"
+4155:1:"An error occurred (ModelError) when calling the InvokeEndpoint operation: Received server error (<:NUM:>) from model with message """"No module named <:VID:>"""". See https:<:PATH:>?region=us-west-<:NUM:>#logEventViewer:group=<:PATH:> in account XXXXXX for more information."
+4156:1:"<:VID:> requires <:VID:>."
+4157:1:not all arguments converted during string formatting
+4158:1:"Job <:NUM:> (task: <:NUM:>) with path <:PATH:>"
+4159:1:"Compiled functions can't take variable number of arguments or use keyword-only arguments with defaults:"
+4160:1:"The closure hasn't been executed. HINT: did you call <:FID:> in your <:VID:> hook? It could also happen because the `optimizer.step(optimizer_closure)` call did not execute it internally."
+4161:1:"Expected 3D (unbatched) or 4D (batched) input to conv2d, but got input of size: [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]"
+4162:1:"<:PATH:>:"
+4163:1:Only tensors, lists, tuples of tensors, or dictionary of tensors can be output from traced functions
+4164:1:"Failed to open file b<:PATH:>"
+4165:1:"Error no file named [<:VID:>, <:VID:>, <:VID:>, <:VID:>] found in directory <:PATH:> or <:VID:> and <:VID:> set to False."
+4166:1:"Internal error: headers don't contain content-disposition."
+4168:1:check_hostname requires server_hostname
+4169:1:"received <:NUM:> items of ancdata"
+4170:1:"Caught FileNotFoundError in DataLoader worker process <:NUM:>."
+4171:1:"<:VID:> should be a positive integer value, but got num_samples=<:NUM:>"
+4172:1:"no signature found for builtin <built-in method empty of type object at <:HEX:>>"
+4173:1:"Using a target size (torch.Size([<:NUM:>])) that is different to the input size (torch.Size([<:NUM:>, <:NUM:>])) is deprecated. Please ensure they have the same size."
+4174:1:nn.Module.to only accepts floating point or complex dtypes, but got desired dtype=torch.int64
+4176:1:"DataLoader found invalid type: <class <:VID:>>"
+4177:1:"The detected CUDA version (<:NUM:>.<:NUM:>) mismatches the version that was used to compile"
+4179:1:Unknown type bool encountered in graph lowering. This type is not supported in ONNX export.
+4180:1:Cannot find callable custom in hubconf
+4181:1:"Only one of parameters [<:VID:>, <:VID:>, <:VID:>, <:VID:>] should be set"
+4182:1:"CUDA error: invalid argument"
+4183:1:can only test a child process
+4184:1:"did not find fuser method for: (<class <:VID:>>,)"
+4185:1:"Early stopping conditioned on metric <:VID:> which is not available. Pass in or modify your <:VID:> callback to use any of the following: ``"
+4186:1:"Input and output sizes should be greater than <:NUM:>, but got input (H: <:NUM:>, W: <:NUM:>) output (H: <:NUM:>, W: <:NUM:>)"
+4187:1:weakly-referenced object no longer exists
+4188:1:"index_select(): Index is supposed to be a vector"
+4189:1:"Function MmBackward returned an invalid gradient at index <:NUM:> - got [<:NUM:>, <:NUM:>] but expected shape compatible with [<:NUM:>, <:NUM:>]"
+4191:1:'Dog_Cat_Dataset\\cats'
+4192:1:"too many indices for array: array is <:NUM:>-dimensional, but <:NUM:> were indexed"
+4193:1:"Model name <:VID:> was not found in tokenizers model name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased, <:PATH:>, <:PATH:>, <:PATH:> We assumed <:VID:> was a path, a model identifier, or url to a directory containing vocabulary files named [<:VID:>] but couldn't find such vocabulary files at this path or url."
+4194:1:reload() argument must be a module
+4195:1:Input type (torch.cuda.FloatTensor) and weight type (torch.FloatTensor) should
+4196:1:"Error relocating <:PATH:>: pthread_attr_setaffinity_np: symbol not found"
+4197:1:"Unsupported ONNX opset version: <:NUM:>"
+4198:1:"CUDA error: all CUDA-capable devices are busy or unavailable"
+4199:1:"Caught TypeError in replica <:NUM:> on device <:NUM:>."
+4200:1:"[enforce fail at ..\c10\core\CPUAllocator.cpp:<:NUM:>] data. DefaultCPUAllocator: not enough memory: you tried to allocate <:NUM:> bytes."
+4204:1:Expected isFloatingType(grad.scalar_type()) || (input_is_complex == grad_is_complex) to be true, but got false. (Could this error message be improved? If so, please report an enhancement request to PyTorch.)
+4205:1:"[<:VID:>, <:VID:>, 'setuptools>=<:NUM:>.<:NUM:>']"
+4206:1:"either size or <:VID:> should be defined"
+4207:1:"Unable to handle autograd's threading in combination with fork-based multiprocessing. See https:<:PATH:>"
+4208:1:pickle data was truncated
+4209:1:'mask_detectionDataset is not in the dataset registry'
+4210:1:"[E941] Can't find model <:VID:>. It looks like you're trying to load a model from a shortcut, which is obsolete as of spaCy v3.<:NUM:>. To load the model, use its full name instead:"
+4211:1:"PytorchStreamReader failed locating file data.pkl: file not found"
+4212:1:"invalid argument <:NUM:>: out of range at <:PATH:>:<:NUM:>**"
+4214:1:The parameter loc has invalid values
+4215:1:Dataset not found or corrupted. You can use download=True to download it
+4216:1:"Tensor for argument #<:NUM:> <:VID:> is on CPU, but expected it to be on GPU (while checking arguments for addmm)"
+4217:1:"Could not run 'quantized::conv2d.new' with arguments from the <:VID:> backend."
+4218:1:"Tensor for <:VID:> is on CPU, Tensor for argument #<:NUM:> <:VID:> is on CPU, but expected them to be on GPU (while checking arguments for addmm)"
+4219:1:"DLL load failed: Le module spécifié est introuvable.**"
+4220:1:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], but got <:NUM:>-dimensional input of size [<:NUM:>, <:NUM:>, <:NUM:>] instead"
+4221:1:"Function AddmmBackward returned an invalid gradient at index <:NUM:> - got [<:NUM:>, <:NUM:>] but expected shape compatible with [<:NUM:>, <:NUM:>]"
+4223:1:"CUDA out of memory. Tried to allocate <:NUM:>.<:NUM:> GiB (GPU <:NUM:>; <:NUM:>.<:NUM:> GiB t otal capacity; <:NUM:>.<:NUM:> GiB already allocated; <:NUM:>.<:NUM:> GiB free; <:NUM:>.<:NUM:> GiB reserved in total by PyTorch)"
+4224:1:"<:NUM:>, Loss : <:NUM:>.<:NUM:>"
+4225:1:"Encountered an unexpected error while running [<:PATH:>, <:PATH:>, <:VID:>, <:PATH:>, <:VID:>, <:VID:>, <:VID:>, <:PATH:>, <:VID:>, '[""<:PATH:>"", ""<:PATH:>"", ""<:PATH:>"", ""<:PATH:>"", ""<:PATH:>"", """""""", ""<:PATH:>"", ""<:PATH:>"", ""<:PATH:>"", ""<:PATH:>""]']"
+4226:1:"filters should not remove entries all entries - check <:PATH:> lengths and lags"
+4227:1:expected np.ndarray (got numpy.ndarray)
+4228:1:"No rendezvous handler for env:<:PATH:>"
+4229:1:"Invalid type <class <:VID:>> for key TRAIN_POSE_ROOT; valid types = {<class <:VID:>>, <class <:VID:>>, <class <:VID:>>, <class <:VID:>>, <class <:VID:>>, <class <:VID:>>}"
+4230:1:"weight tensor should be defined either for all or no classes at <:PATH:>:<:NUM:>"
+4231:1:Trying to backward through the graph a second time, but the saved intermediate results have already been freed. Specify retain_graph=True when calling backward the first time.
+4232:1:"<:FID:> takes at most <:NUM:> argument (<:NUM:> given)"
+4233:1:"adaptive_avg_pool3d: <:VID:> must be <:NUM:>"
+4234:1:underlying buffer has been detached
+4235:1:"Command '[<:VID:>, 'c++']' returned non-zero exit status <:NUM:>."
+4236:1:"keyword-arg expansion is not supported:"
+4237:1:Input vectors must have same length
+4238:1:"Cuda extensions are being compiled with a version of Cuda that does not match the version used to compile Pytorch binaries. Pytorch binaries were compiled with Cuda <:NUM:>.<:NUM:>."
+4239:1:One of the differentiated Tensors appears to not have been used in the graph. Set allow_unused=True if this is the desired behavior.
+4240:1:non-positive stride is not supported
+4241:1:expected scalar type Byte but found Float
+4244:1:ray.cloudpickle.dumps(<class 'ray.tune.function_runner.wrap_function.<locals>.ImplicitFunc'>) failed.
+4247:1:"Caught SSLError in DataLoader worker process <:NUM:>."
+4248:1:unsupported format string passed to Tensor.__format__
+4250:1:"DataLoader worker (pid(s) <:NUM:>, <:NUM:>) exited unexpectedly"
+4251:1:"Given groups=<:NUM:>, weight[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], so expected input[<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] to have <:NUM:> channels, but got <:NUM:> channels instead"
+4252:1:"Couldn't open shared file mapping: <torch_<:NUM:>_<:NUM:>>, error code: <<:NUM:>>"
+4253:1:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]], which is output <:NUM:> of ReluBackward1, is at version <:NUM:>; expected version <:NUM:> instead. Hint: the backtrace further above shows the operation that failed to compute its gradient. The variable in question was changed in there or anywhere later. Good luck!"
+4254:1:module transformers has no attribute TFGPTNeoForCausalLM
+4255:1:"Given groups=<:NUM:>, expected weight to be at least <:NUM:> at dimension <:NUM:>, but got weight of size [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] instead"
+4257:1:"Expected tensor for argument #<:NUM:> <:VID:> to have one of the following scalar types: Long, Int; but got torch.cuda.FloatTensor instead (while checking arguments for embedding)"
+4258:1:"CUDA unavailable, invalid device <:NUM:> requested"
+4259:1:"DLL load failed: The specified procedure could not be found."
+4260:1:The parameter concentration has invalid values
+4261:1:"Incompatible Language version <:NUM:>. Must not be between <:NUM:> and <:NUM:>"
+4262:1:"<:VID:> codec can't decode byte <:HEX:> in position <:NUM:>: ordinal not in range(<:NUM:>)"
+4264:1:could not convert b, a, and x to a common type
+4265:1:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>]] is at version <:NUM:>; expected version <:NUM:> instead. Hint: the backtrace further above shows the operation that failed to compute its gradient. The variable in question was changed in there or anywhere later. Good luck!"
+4267:1:unknown parameter type
+4269:1:"<:NUM:>.<:NUM:>.<:NUM:>+unknown"
+4270:1:"<:NUM:>.<:NUM:>.<:NUM:>+0f33c08"
+4271:1:"<:VID:> argument should be a 1D CPU int64 tensor, but got 1D cuda:<:NUM:> Long tensor`"
+4272:1:"Unknown argument(s): {<:VID:>: <:NUM:>}"
+4273:1:Sum of input lengths does not equal the length of the input dataset! [0m
+4274:1:"Found no valid file for the classes .ipynb_checkpoints. Supported extensions are: .jpg, .jpeg, .png, .ppm, .bmp, .pgm, .tif, .tiff, .webp"
+4275:1:"Command '[<:PATH:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:VID:>, <:PATH:>]' died with <Signals.SIGKILL: <:NUM:>>."
+4276:1:Size mismatch between tensors
+4277:1:"<:FID:> missing <:NUM:> required positional arguments: <:VID:> and <:VID:>"
+4278:1:"unable to mmap <:NUM:> bytes from file <filename not specified>: Cannot allocate memory (<:NUM:>)"
+4280:1:The wandb backend process has shutdown
+4281:1:"Unable to start activity ComponentInfo{org.pytorch.demo.<:PATH:>}: com.facebook.jni.CppException: [enforce fail at inline_container.cc:<:NUM:>] . file not found: <:PATH:>"
+4282:1:"unexpected EOF, expected <:NUM:> more bytes. The file might be corrupted."
+4283:1:"Legacy autograd function with non-static forward method is deprecated. Please use new-style autograd function with static forward method. (Example: https:<:PATH:>#torch.autograd.Function)"
+4284:1:need at least one array to stack
+4285:1:"<:VID:> is an invalid keyword argument for <:FID:>"
+4286:1:"Model name <:PATH:> was not"
+4287:1:"y and <:VID:> must have same shape of (batch_size, num_categories, ...) and <:VID:> > <:NUM:>."
+4288:1:"unable to parse <:PATH:>"
+4289:1:string indices must be integers
+4290:1:"Expected hidden size (<:NUM:>, <:NUM:>, <:NUM:>), got [<:NUM:>, <:NUM:>, <:NUM:>]"
+4291:1:"one of the variables needed for gradient computation has been modified by an inplace operation: [torch.cuda.FloatTensor [<:NUM:>]] is at version <:NUM:>; expected version <:NUM:> instead. Hint: enable anomaly detection to find the operation that failed to compute its gradient, with torch.autograd.set_detect_anomaly(True)."
+4292:1:"Expected <:NUM:>-dimensional input for <:NUM:>-dimensional weight [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>], but got <:NUM:>-dimensional input of size [<:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>, <:NUM:>] instead"
+4293:1:Input type (torch.cuda.LongTensor) and weight type (torch.cuda.FloatTensor) should be the same
+4294:1:"The expanded size of the tensor (<:NUM:>) must match the existing size (<:NUM:>) at non-singleton dimension <:NUM:>. Target sizes: [<:NUM:>]. Tensor sizes: [<:NUM:>]"
+4295:1:negative dimensions are not allowed
+4296:1:int too big to convert
+4297:1:"[Errno <:NUM:>] No such file or directory: '..<:PATH:>[[[<:NUM:>.<:NUM:> <:NUM:>.<:NUM:> <:NUM:>.<:NUM:>]"
+4299:1:System call (socket, malloc, munmap, etc) failed.
+4300:1:"type of None unknown: <class <:VID:>>. Should be one of a python, numpy, pytorch or tensorflow object."
+4301:1:"Sizes of tensors must match except in dimension <:NUM:>. Got <:NUM:> and <:NUM:> (The offending index is <:NUM:>)"
+4302:1:"Unknown value <:VID:> for argument classes. Valid values are {<:VID:>, <:VID:>, <:VID:>}."
+4303:1:"invalid argument <:NUM:>: cannot perform reduction function min on tensor with no elements because the operation does not have an identity at <:PATH:>:<:NUM:>"
+4305:1:"HTTPConnectionPool(host=<:VID:>, port=<:NUM:>): Max retries exceeded with url: <:PATH:> (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at <:HEX:>>: Failed to establish a new connection: [Errno <:NUM:>] Connection refused'))"
+4306:1:"Could not run 'aten::empty_strided' with arguments from the <:VID:> backend.This could be because the operator doesn't exist for this backend, or was omitted during the <:PATH:> build process (if using custom build). If you are a Facebook employee using PyTorch on mobile, please visit https:<:PATH:> for possible resolutions. 'aten::empty_strided' is only available for these backends: [CPU, BackendSelect, Named, AutogradOther, AutogradCPU, AutogradCUDA, AutogradXLA, AutogradNestedTensor, UNKNOWN_TENSOR_TYPE_ID, AutogradPrivateUse1, AutogradPrivateUse2, AutogradPrivateUse3, Tracer, Autocast, Batched, VmapMode]."
+4307:1:an integer is required (got type tuple)
+4308:1:In training mode, targets should be passed
+4309:1:"Expected one of cpu, cuda, mkldnn, opengl, opencl, ideep, hip, msnpu device type at start of device string: <:NUM:>"
+4310:1:A load persistent id instruction was encountered,
+4311:1:"stack expects each tensor to be equal size, but got [<:NUM:>, <:NUM:>, <:NUM:>] at entry <:NUM:> and [<:NUM:>, <:NUM:>, <:NUM:>] at entry"
+4312:1:"[Errno <:NUM:>] Device or resource busy: <:VID:>"
+4313:1:"<:FID:> missing <:NUM:> required positional arguments: <:VID:>, <:VID:>, <:VID:>, and <:VID:>"
+4314:1:"Error(s) in loading <:VID:> for RNNEncoder:size mismatch for embs.weight: copying a param with shape torch.Size([<:NUM:>, <:NUM:>]) from checkpoint, the shape in current model is torch.Size([<:NUM:>, <:NUM:>])."
+4315:1:"CUDA out of memory. Tried to allocate <:NUM:>.<:NUM:> MiB (GPU <:NUM:>; <:NUM:>.<:NUM:> GiB total capacity; <:NUM:>.<:NUM:> GiB already allocated; <:NUM:>.<:NUM:> MiB free; <:NUM:>.<:NUM:> GiB rese"
+4316:1:"empty range for <:FID:> (<:NUM:>, <:NUM:>, <:NUM:>)"
+4317:1:"<urlopen error [Errno <:NUM:>] Cannot assign requested address>"
+4318:1:"Caught StopIteration in replica <:NUM:> on device <:NUM:>."
+4319:1:"expand(torch.cuda.LongTensor{[<:NUM:>]}, size=[]): the number of sizes provided (<:NUM:>) must be greater or equal to the number of dimensions in the tensor (<:NUM:>)"
+4320:1:"<:NUM:> Client Error: PermissionDenied for url:"
+4321:1:"cannot import name <:VID:> from <:VID:> (*blurred out*)"
+4322:1:"<:FID:> received an invalid combination of arguments - got (Tensor, Tensor, list, int, int, float, bool, bool, bool), but expected one of:"
+4323:1:"Subtraction, the <:VID:> operator, with a bool tensor is not supported. If you are trying to invert a mask, use the `~` or <:FID:> operator instead."
+4324:1:"[Errno <:NUM:>] Permission denied: <:PATH:>"
+4325:1:"[enforce fail at ..\c10\core\CPUAllocator.cpp:<:NUM:>] data. DefaultCPUAllocator: not enough"
